@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Lecteur de cassettes de contrebandier",
+    "description": "Un lecteur de cassettes portable usé par le temps. La bande à l’intérieur n’a pas d’étiquette, juste une date manuscrite. Un rappel lors de la traversée de Tarkov appelait à moins de silence.",
+    "shortName": "Baladeur"
+  },
+  "ph_classic_laptop": {
+    "name": "Ordinateur portable de l'archiviste",
+    "description": "Un vieil ordinateur portable, avec des étiquettes d’inventaire sur le couvercle et des touches usées. Il a peut-être conservé les archives d’une entreprise de Tarkov. Sa valeur réside aujourd’hui dans ce qui a survécu.",
+    "shortName": "Portable"
+  },
+  "ph_circuit_board": {
+    "name": "Carte mère expérimentale",
+    "description": "Un circuit imprimé avec des composants inhabituels et des traces de modifications manuelles. On dirait qu’il provient d’un banc d’essai plutôt que d’une chaîne de production.",
+    "shortName": "Carte mère"
+  },
+  "ph_camera_01": {
+    "name": "Caméra du correspondant",
+    "description": "Une caméra qui semble avoir suivi quelqu'un dans les derniers jours précédant le blocus. Son bracelet est usé, mais l'objectif est intact. Pour un collectionneur, certaines images valent plus que de l’argent.",
+    "shortName": "Appareil photo"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Émetteur-récepteur Opération Zéro",
+    "description": "Un émetteur-récepteur robuste avec des sélecteurs rayés et des traces d'une plaque d'identification retirée. Le nom d’Opération Zéro circule parmi les ferrailleurs militaires. Il n’y a pas deux récits de son histoire qui concordent.",
+    "shortName": "Émetteur Zero"
+  },
+  "ph_vintage_video_camera": {
+    "name": "Caméscope de reconnaissance",
+    "description": "Un vieux caméscope avec des traces de transport sur son boîtier. Il peut s'agir d'une usine, d'une issue de secours ou simplement de vacances. Sans les images, il ne reste que des suppositions.",
+    "shortName": "Caméscope"
+  },
+  "ph_retro_multimeter": {
+    "name": "Multimètre de laboratoire",
+    "description": "Un multimètre d'une autre époque, avec une échelle fanée et des sondes usées. Son atelier a peut-être fermé, mais quelqu'un reconnaît encore une pièce bien conservée.",
+    "shortName": "Multimètre"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Montre numérique de l'opérateur",
+    "description": "Une montre digitale sobre marquée par des années d'utilisation. Pour ceux qui étaient coincés à Tarkov, compter les minutes prenait une signification différente.",
+    "shortName": "Montre numérique"
+  },
+  "ph_gamepad": {
+    "name": "Manette de la planque",
+    "description": "Une manette de jeu avec un câble enroulé et des boutons usés. Un jour, quelqu’un a passé une soirée tranquille à le tenir. C’est la partie la plus difficile à imaginer maintenant.",
+    "shortName": "Manette"
+  },
+  "ph_small_plastic_torch": {
+    "name": "Lampe de poche de l'explorateur",
+    "description": "Une simple lampe de poche avec un boîtier rayé, comme si elle avait traversé de nombreux sacs à dos. Un souvenir de collection des couloirs où personne ne voulait être laissé dans le noir.",
+    "shortName": "Lampe torche"
+  },
+  "ph_vintage_binocular": {
+    "name": "Jumelles d'observateur",
+    "description": "Vieilles jumelles avec revêtement usé et signes de réparations mineures. Celui qui les portait préférait probablement regarder à distance. Une habitude compréhensible chez Tarkov.",
+    "shortName": "Jumelles anciennes"
+  },
+  "ph_old_gas_mask": {
+    "name": "Masque à gaz historique",
+    "description": "Un masque à gaz d’ancien modèle, au caoutchouc vieilli et aux pièces d’origine incertaine. Sa valeur est historique. Lui confier sa respiration serait une autre affaire.",
+    "shortName": "Masque à gaz"
+  },
+  "ph_seadogs_compass": {
+    "name": "Boussole du navigateur",
+    "description": "Boussole ancienne avec des marques de manipulation sur le métal. Dans une ville fermée, savoir où se trouve le nord ne vous aide pas toujours à trouver une issue.",
+    "shortName": "Boussole"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Montre de poche du colonel",
+    "description": "Une montre de poche ancienne avec des petites rayures sur son boîtier et une chaîne bien entretenue. Personne ne sait à qui elle appartenait, mais les commerçants ont pris l'habitude de l'appeler la montre du Colonel.",
+    "shortName": "Montre de poche"
+  },
+  "ph_vintage_lighter": {
+    "name": "Briquet du Vétéran",
+    "description": "Un briquet en métal avec des coins usés. Il a traversé de nombreuses poches avant d'atteindre cet endroit. Certains acheteurs paient plus pour ces marques que pour une nouvelle.",
+    "shortName": "Briquet"
+  },
+  "ph_stick_grenade": {
+    "name": "Grenade historique inerte",
+    "description": "Une grenade à bâton conservée comme pièce historique, sans fonction de combat. Sa forme attire l'attention, mais les collectionneurs se soucient de l'époque à laquelle elle est issue.",
+    "shortName": "Grenade inerte"
+  },
+  "ph_fish_knife": {
+    "name": "Couteau de collection du pêcheur",
+    "description": "Un couteau étroit au manche simple, conservé comme objet de collection. Il semble avoir connu davantage de bateaux et de tables de préparation du poisson que de champs de bataille.",
+    "shortName": "Couteau de pêche"
+  },
+  "ph_binoculars": {
+    "name": "Jumelles de terrain",
+    "description": "Jumelles de terrain avec une sangle usée et un look sans prétention. Ils ont peut-être surveillé un point de contrôle ou un chemin à travers les arbres. Celui qui les a parcourus n’a laissé aucune note.",
+    "shortName": "Jumelles"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Loupe d'enquêteur",
+    "description": "Une loupe à monture unie marquée par l'usage. Le genre d’objet qui aurait sa place sur un bureau rempli de documents. Chez Tarkov, les petits détails cachent souvent de grandes histoires.",
+    "shortName": "Loupe"
+  },
+  "ph_brass_blowtorch": {
+    "name": "Ancien chalumeau en laiton",
+    "description": "Un chalumeau en laiton avec des taches anciennes et du métal noirci. Cela ressemble à un atelier qui répare les choses au lieu de les jeter.",
+    "shortName": "Chalumeau"
+  },
+  "ph_industrial_microscope": {
+    "name": "Microscope expérimental",
+    "description": "Un microscope robuste avec des pièces réglables et des signes d'utilisation prudente. Il peut provenir d'un laboratoire ou d'un poste de contrôle industriel. Son bâtiment d'origine n'existe peut-être plus.",
+    "shortName": "Microscope"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Instrument de navigation spatiale",
+    "description": "Un instrument de navigation avec un cadran inhabituel et une peinture usée. Son association avec les programmes spatiaux alimente les rumeurs. Prouver d’où il vient est une autre histoire.",
+    "shortName": "Instrument spatial"
+  },
+  "ph_binder_notebook": {
+    "name": "Carnet du chercheur",
+    "description": "Un cahier à couverture usée avec des pages volantes et des marques de manipulation. Tout ce qu’un chercheur a écrit n’a pas abouti sur un ordinateur. Parfois, le dernier disque tient dans un sac à dos.",
+    "shortName": "Carnet"
+  },
+  "ph_round_spectacles": {
+    "name": "Lunettes du Professeur",
+    "description": "Lunettes rondes à monture fine et à l'usure subtile. Le nom de Professeur vient d'un commerçant et non d'une carte d'identité. La personne derrière les lentilles reste inconnue.",
+    "shortName": "Lunettes"
+  },
+  "ph_vintage_stapler": {
+    "name": "Agrafeuse des Archives Zéro",
+    "description": "Une vieille agrafeuse avec une peinture brillante et le poids d'une autre époque. Il a survécu aux bureaux qu’il a aidé à organiser. Les papiers disparaissent facilement ; le métal a tendance à rester.",
+    "shortName": "Agrafeuse"
+  },
+  "ph_modified_thermos": {
+    "name": "Thermos d'expédition",
+    "description": "Un thermos éraflé conçu pour les longs voyages. Il semble avoir plus d’importance pour son ancien propriétaire que son apparence ne le suggère.",
+    "shortName": "Thermos"
+  },
+  "ph_ratchet_wrench": {
+    "name": "Clé à cliquet de précision",
+    "description": "Une clé à cliquet présentant une usure sur ses surfaces de contact. Il appartenait peut-être à quelqu'un qui pouvait démonter une machine sans laisser de pièces de rechange.",
+    "shortName": "Clé à cliquet"
+  },
+  "ph_pliers": {
+    "name": "Pinces de technicien",
+    "description": "Une simple pince avec des marques de pression sur les mâchoires et des poignées usées. Parmi tous ces débris, cela ressemble encore à quelque chose que quelqu’un a insisté pour garder.",
+    "shortName": "Pince"
+  },
+  "ph_adjustable_wrench": {
+    "name": "Clé à molette historique",
+    "description": "Une ancienne clé à molette avec un mécanisme noirci et un métal poli par l'usage. Rien d'extraordinaire, juste une pièce qui s'est déplacée de banc en banc pendant des années.",
+    "shortName": "Clé à molette"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Marteau de l’Atelier Zéro",
+    "description": "Un marteau d'atelier avec un manche marqué et une tête battue. Le nom Workshop Zero semble être apparu après le blocus. Celui qui y travaillait n'a laissé aucune trace sur la porte.",
+    "shortName": "Marteau"
+  }
+}

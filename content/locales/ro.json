@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Casetofonul contrabandistului",
+    "description": "Un casetofon portabil uzat de timp. Banda din interior nu are etichetă, doar o dată scrisă de mână. O reamintire a când traversa Tarkov a cerut mai puțină tăcere.",
+    "shortName": "Casetofon portabil"
+  },
+  "ph_classic_laptop": {
+    "name": "Laptopul Arhivarului",
+    "description": "Un laptop vechi, cu etichete de inventar pe capac și taste uzate. Poate că a păstrat cândva documentele unei firme din Tarkov. Valoarea sa stă acum în ceea ce a supraviețuit.",
+    "shortName": "Laptop"
+  },
+  "ph_circuit_board": {
+    "name": "Placă de bază experimentală",
+    "description": "O placă de circuite cu componente neobișnuite și urme de modificări ale mâinii. Se pare că a venit de la un banc de testare, mai degrabă decât de la o linie de producție.",
+    "shortName": "Placă de bază"
+  },
+  "ph_camera_01": {
+    "name": "Camera corespondentului",
+    "description": "O cameră care pare să fi urmărit pe cineva în ultimele zile dinaintea blocadei. Cureaua este uzată, dar lentila este intactă. Pentru un colecționar, unele imagini valorează mai mult decât banii.",
+    "shortName": "Aparat foto"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Stația radio a Operațiunii Zero",
+    "description": "Un transceiver robust, cu selectoare zgâriate și urme ale unei plăcuțe de identificare îndepărtate. Numele Operațiunea Zero circulă printre dealerii de fier vechi. Nu sunt două conturi de acord.",
+    "shortName": "Stație radio Zero"
+  },
+  "ph_vintage_video_camera": {
+    "name": "Cameră de recunoaștere",
+    "description": "O cameră video veche cu uzură de transport pe carcasă. S-ar putea să fi înregistrat o fabrică, o rută de evacuare sau doar o vacanță. Fără filmare, tot ce rămâne este presupuneri.",
+    "shortName": "Cameră video"
+  },
+  "ph_retro_multimeter": {
+    "name": "Multimetru de laborator",
+    "description": "Un multimetru din altă epocă, cu o scară decolorată și cu sonde uzate. Poate că atelierul său s-a închis, dar cineva mai recunoaște o piesă bine păstrată.",
+    "shortName": "Multimetru"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Ceasul digital al operatorului",
+    "description": "Un ceas digital subestimat, marcat de ani de utilizare. Pentru cei prinși în Tarkov, numărarea minutelor a căpătat un alt sens.",
+    "shortName": "Ceas digital"
+  },
+  "ph_gamepad": {
+    "name": "Controler pentru ascunzătoare",
+    "description": "Un controler de joc cu un cablu spiralat și butoane uzate. Cineva a petrecut odată o seară liniștită ținând-o. Asta e partea greu de imaginat acum.",
+    "shortName": "Controler"
+  },
+  "ph_small_plastic_torch": {
+    "name": "Lanterna exploratorului",
+    "description": "O lanternă simplă cu carcasa zgâriată, arătând ca și cum ar fi trecut prin multe rucsacuri. O amintire de colecție a coridoarelor în care nimeni nu dorea să fie lăsat în întuneric.",
+    "shortName": "Lanternă"
+  },
+  "ph_vintage_binocular": {
+    "name": "Binoclul pentru observator",
+    "description": "Binoclu vechi cu acoperire uzată și semne de reparații minore. Cine le-a purtat probabil a preferat să privească de la distanță. Un obicei de înțeles în Tarkov.",
+    "shortName": "Binoclu vechi"
+  },
+  "ph_old_gas_mask": {
+    "name": "Mască de gaz istorică",
+    "description": "O mască de gaze de model vechi, cu cauciuc îmbătrânit și piese de origine incertă. Are valoare istorică. Să-ți încredințezi respirația protecției sale ar fi cu totul altceva.",
+    "shortName": "Mască de gaze"
+  },
+  "ph_seadogs_compass": {
+    "name": "Busola navigatorului",
+    "description": "O busolă cu carcasă veche, cu semne de manipulare pe metal. Într-un oraș sigilat, a ști unde se află nordul nu te ajută întotdeauna să găsești o cale de ieșire.",
+    "shortName": "Busolă"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Ceasul de buzunar al colonelului",
+    "description": "Un ceas de buzunar vechi cu mici zgârieturi pe carcasă și un lanț bine întreținut. Nimeni nu știe cui a deținut, dar comercianții au început să-l numească ceasul colonelului.",
+    "shortName": "Ceas de buzunar"
+  },
+  "ph_vintage_lighter": {
+    "name": "Bricheta veteranului",
+    "description": "Brichetă metalică cu colțuri uzate. A trecut prin multe buzunare înainte de a ajunge în acest loc. Unii cumpărători plătesc mai mult pentru acele mărci decât pentru unul nou.",
+    "shortName": "Brichetă"
+  },
+  "ph_stick_grenade": {
+    "name": "Grenadă istorică inertă",
+    "description": "O grenadă cu băț păstrată ca piesă istorică, fără funcție de luptă. Forma sa atrage atenția, dar colecționarilor le pasă de epoca din care a venit.",
+    "shortName": "Grenadă inertă"
+  },
+  "ph_fish_knife": {
+    "name": "Cuțit de colecție al pescarului",
+    "description": "Un cuțit îngust, cu mâner simplu, păstrat ca piesă de colecție. Pare să fi cunoscut mai multe bărci și mese de curățat pește decât câmpuri de luptă.",
+    "shortName": "Cuțit de pescuit"
+  },
+  "ph_binoculars": {
+    "name": "Binoclul de câmp",
+    "description": "Binoclu de câmp cu o curea uzată și un aspect modest. Este posibil să fi urmărit un punct de control sau o potecă printre copaci. Cine s-a uitat prin ele nu a lăsat note.",
+    "shortName": "Binoclu"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Lupa anchetatorului",
+    "description": "O lupă cu ramă simplă marcată prin utilizare. Genul de obiect care aparținea unui birou plin de documente. În Tarkov, detaliile mici ascund adesea povești mari.",
+    "shortName": "Lupă"
+  },
+  "ph_brass_blowtorch": {
+    "name": "Lampă de lipit veche din alamă",
+    "description": "O lanternă de alamă cu pete vechi și metal întunecat. Are aspectul unui atelier care a reparat lucrurile în loc să le arunce.",
+    "shortName": "Lampă de lipit"
+  },
+  "ph_industrial_microscope": {
+    "name": "Microscop experimental",
+    "description": "Un microscop robust cu piese reglabile și semne de utilizare atentă. Este posibil să fi venit de la un laborator sau o stație de inspecție industrială. Este posibil ca clădirea sa originală să nu mai existe.",
+    "shortName": "Microscop"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Instrument de navigaţie spaţială",
+    "description": "Un instrument de navigație cu un cadran neobișnuit și vopsea uzată. Asocierea sa cu programele spațiale alimentează zvonuri. A demonstra de unde a venit este o altă poveste.",
+    "shortName": "Instrument spațial"
+  },
+  "ph_binder_notebook": {
+    "name": "Caietul cercetătorului",
+    "description": "Un caiet acoperit cu pagini libere și semne de manipulare. Nu tot ce a scris un cercetător a ajuns pe un computer. Uneori, ultimul disc încape într-un rucsac.",
+    "shortName": "Carnet"
+  },
+  "ph_round_spectacles": {
+    "name": "Ochelari de profesor",
+    "description": "Ochelari rotunzi cu ramă subțire și purtare subtilă. Numele profesor vine de la comercianți, nu de la o carte de identitate. Persoana din spatele lentilelor rămâne necunoscută.",
+    "shortName": "Ochelari"
+  },
+  "ph_vintage_stapler": {
+    "name": "Capsatorul Arhivei Zero",
+    "description": "O capsatoare veche cu vopsea strălucitoare și greutatea unei alte epoci. A supraviețuit birourilor pe care le-a ajutat la organizare. Hârtiile dispar ușor; metalul tinde să rămână.",
+    "shortName": "Capsator"
+  },
+  "ph_modified_thermos": {
+    "name": "Termos de expediție",
+    "description": "Un termos zdrobit, făcut pentru călătorii lungi. Se pare că a contat mai mult pentru fostul său proprietar decât sugerează aspectul său.",
+    "shortName": "Termos"
+  },
+  "ph_ratchet_wrench": {
+    "name": "Cheie cu clichet de precizie",
+    "description": "O cheie cu clichet cu uzură pe suprafeţele sale de contact. S-ar putea să fi aparținut cuiva care ar putea demonta o mașină fără a lăsa piese de rezervă în urmă.",
+    "shortName": "Cheie cu clichet"
+  },
+  "ph_pliers": {
+    "name": "Cleşte de tehnician",
+    "description": "O pereche simplă de cleşte cu semne de presiune pe fălci şi mânere uzate. Printre toate resturi, se pare că cineva a insistat să păstreze.",
+    "shortName": "Clește"
+  },
+  "ph_adjustable_wrench": {
+    "name": "Cheie ajustabilă istorică",
+    "description": "O veche cheie reglabilă cu mecanism întunecat și metal lustruit prin utilizare. Nimic de lux, doar o piesă care s-a mutat din bancă în bancă ani de zile.",
+    "shortName": "Cheie reglabilă"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Ciocanul Atelierului Zero",
+    "description": "Un ciocan de atelier cu mâner marcat și cap bătut. Numele Workshop Zero pare să fi apărut după blocaj. Cine a lucrat acolo nu a lăsat niciun semn pe uşă.",
+    "shortName": "Ciocan"
+  }
+}

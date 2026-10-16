@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Kaçakçının Kasetçaları",
+    "description": "Zamanla yıpranmış taşınabilir bir kaset çalar. İçerdeki bantta etiket yok, sadece elle yazılmış bir tarih var. Tarkov'u geçerken daha az sessizliğin gerektiği hatırlatıldı.",
+    "shortName": "Kasetçalar"
+  },
+  "ph_classic_laptop": {
+    "name": "Arşivcinin Dizüstü Bilgisayarı",
+    "description": "Kapağında envanter etiketleri, klavyesinde aşınmış tuşlar olan eski bir dizüstü bilgisayar. Bir zamanlar Tarkov’daki bir şirketin kayıtlarını saklamış olabilir. Bugünkü değeri, geriye ne kaldığında yatıyor.",
+    "shortName": "Dizüstü"
+  },
+  "ph_circuit_board": {
+    "name": "Deneysel Anakart",
+    "description": "Olağandışı bileşenlere ve elle yapılan değişikliklerin izlerine sahip bir devre kartı. Bir üretim hattından ziyade bir test tezgahından gelmiş gibi görünüyor.",
+    "shortName": "Anakart"
+  },
+  "ph_camera_01": {
+    "name": "Muhabirin Kamerası",
+    "description": "Ablukadan önceki son günlerde birini takip eden bir kamera. Kayışı aşınmış ancak lensi sağlam. Bir koleksiyoncu için bazı resimler paradan daha değerlidir.",
+    "shortName": "Fotoğraf makinesi"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Sıfır Operasyonu Telsizi",
+    "description": "Çizilmiş seçicileri ve çıkarılmış kimlik plakasının izlerini taşıyan sağlam bir alıcı-verici. Sıfır Operasyonu adı askeri hurda satıcıları arasında dolaşıyor. Hiçbir iki hesap aynı fikirde değil.",
+    "shortName": "Zero telsizi"
+  },
+  "ph_vintage_video_camera": {
+    "name": "Keşif Kamerası",
+    "description": "Muhafazasında taşıma sırasında aşınma olan eski bir video kamera. Bir fabrikayı, bir kaçış yolunu ya da sadece bir tatili kaydetmiş olabilir. Görüntüler olmadan geriye sadece tahminler kalıyor.",
+    "shortName": "Video kamera"
+  },
+  "ph_retro_multimeter": {
+    "name": "Laboratuvar Multimetresi",
+    "description": "Soluk ölçeği ve aşınmış probları olan, başka bir döneme ait bir multimetre. Atölyesi kapanmış olabilir ama birileri hala bakımlı bir parçayı tanıyor.",
+    "shortName": "Multimetre"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Operatörün Dijital Saati",
+    "description": "Yıllar süren kullanımın damgasını vurduğu sade bir dijital saat. Tarkov'da mahsur kalanlar için dakikaları saymak farklı bir anlam kazandı.",
+    "shortName": "Dijital saat"
+  },
+  "ph_gamepad": {
+    "name": "Sığınağın Oyun Kumandası",
+    "description": "Sarmal kablosu ve aşınmış düğmeleri olan bir oyun kumandası. Bir zamanlar biri onu tutarak sessiz bir akşam geçirmişti. Şimdi resimlemenin zor kısmı bu.",
+    "shortName": "Oyun kumandası"
+  },
+  "ph_small_plastic_torch": {
+    "name": "Kaşifin El Feneri",
+    "description": "Birçok sırt çantasının içinden geçmiş gibi görünen, gövdesi çizik olan basit bir el feneri. Kimsenin karanlıkta kalmak istemediği koridorların koleksiyonluk bir hatırlatıcısı.",
+    "shortName": "El feneri"
+  },
+  "ph_vintage_binocular": {
+    "name": "Gözlemci Dürbünü",
+    "description": "Kaplaması aşınmış ve küçük onarım izleri olan eski dürbün. Bunları kim taşıyorsa muhtemelen uzaktan izlemeyi tercih ediyordu. Tarkov'da anlaşılır bir alışkanlık.",
+    "shortName": "Eski dürbün"
+  },
+  "ph_old_gas_mask": {
+    "name": "Tarihi Gaz Maskesi",
+    "description": "Kauçuğu eskimiş, parçalarının kökeni belirsiz, eski tip bir gaz maskesi. Değeri tarihî olmasından geliyor. Nefesini ona emanet etmek ise bambaşka bir mesele.",
+    "shortName": "Gaz maskesi"
+  },
+  "ph_seadogs_compass": {
+    "name": "Navigatörün Pusulası",
+    "description": "Metal üzerinde kullanım işaretleri bulunan eski kasalı bir pusula. Kapalı bir şehirde kuzeyin nerede olduğunu bilmek her zaman bir çıkış yolu bulmanıza yardımcı olmaz.",
+    "shortName": "Pusula"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Albay'ın Cep Saati",
+    "description": "Kasasında küçük çizikler ve bakımlı zinciri olan eski bir cep saati. Kimse onun kime ait olduğunu bilmiyor ama tüccarlar ona Albay'ın saati adını vermeye başladılar.",
+    "shortName": "Cep saati"
+  },
+  "ph_vintage_lighter": {
+    "name": "Gazi Çakmağı",
+    "description": "Köşeleri aşınmış metal bir çakmak. Buraya ulaşana kadar pek çok cepten geçti. Bazı alıcılar bu markalar için yenisinden daha fazla para ödüyor.",
+    "shortName": "Çakmak"
+  },
+  "ph_stick_grenade": {
+    "name": "Etkisiz Tarihî El Bombası",
+    "description": "Tarihi bir eser olarak saklanan, savaş işlevi olmayan bir el bombası. Şekli dikkat çekse de koleksiyoncular geldiği dönemi önemsiyor.",
+    "shortName": "Etkisiz el bombası"
+  },
+  "ph_fish_knife": {
+    "name": "Balıkçı Koleksiyon Bıçağı",
+    "description": "Sade saplı, dar bir bıçak; koleksiyon parçası olarak saklanmış. Savaş alanlarından çok teknelerde ve balık temizleme tezgâhlarında kullanılmış gibi görünüyor.",
+    "shortName": "Balıkçı bıçağı"
+  },
+  "ph_binoculars": {
+    "name": "Saha Dürbünleri",
+    "description": "Aşınmış kayışı ve sade görünümüyle saha dürbünü. Bir kontrol noktasını veya ağaçların arasından geçen bir yolu izlemiş olabilirler. Bunları kim incelediyse hiç not bırakmamış.",
+    "shortName": "Dürbün"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Araştırmacının Büyüteci",
+    "description": "Kullanıma göre işaretlenmiş sade çerçeveli bir büyüteç. Belgelerle dolu bir masaya ait olan türden bir nesne. Tarkov'da küçük ayrıntılar çoğu zaman büyük hikayeleri gizler.",
+    "shortName": "Büyüteç"
+  },
+  "ph_brass_blowtorch": {
+    "name": "Antika Pirinç Pürmüz",
+    "description": "Eski lekelere ve kararmış metale sahip pirinç bir kaynak makinesi. Eşyaları atmak yerine tamir eden bir atölye görünümünde.",
+    "shortName": "Pürmüz"
+  },
+  "ph_industrial_microscope": {
+    "name": "Deneysel Mikroskop",
+    "description": "Ayarlanabilir parçalara ve dikkatli kullanım işaretlerine sahip sağlam bir mikroskop. Bir laboratuvardan veya endüstriyel bir inceleme istasyonundan gelmiş olabilir. Orijinal binası artık mevcut olmayabilir.",
+    "shortName": "Mikroskop"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Uzay Navigasyon Aleti",
+    "description": "Alışılmadık bir kadrana ve aşınmış boyaya sahip bir navigasyon cihazı. Uzay programlarıyla olan ilişkisi söylentileri körüklüyor. Nereden geldiğini kanıtlamak başka bir hikaye.",
+    "shortName": "Uzay seyir aleti"
+  },
+  "ph_binder_notebook": {
+    "name": "Araştırmacının Not Defteri",
+    "description": "Gevşek sayfaları ve kullanım izleri olan yıpranmış kapaklı bir defter. Bir araştırmacının yazdığı her şey bilgisayarda sonuçlanmadı. Bazen son plak bir sırt çantasına sığar.",
+    "shortName": "Not defteri"
+  },
+  "ph_round_spectacles": {
+    "name": "Profesörün Gözlükleri",
+    "description": "İnce çerçeveli ve hafif aşınmaya sahip yuvarlak gözlük. Profesör ismi kimlik kartından değil tüccarlardan geliyordu. Lenslerin arkasındaki kişi bilinmiyor.",
+    "shortName": "Gözlük"
+  },
+  "ph_vintage_stapler": {
+    "name": "Sıfır Arşivinin Zımbası",
+    "description": "Parlak boyalı ve başka bir çağın ağırlığına sahip eski bir zımba. Düzenlemeye yardımcı olduğu masalardan daha uzun süre dayandı. Kağıtlar kolayca kaybolur; metal kalma eğilimindedir.",
+    "shortName": "Zımba"
+  },
+  "ph_modified_thermos": {
+    "name": "Sefer Termosu",
+    "description": "Uzun yolculuklar için yapılmış aşınmış bir termos. Eski sahibi için görünüşünden çok daha önemliymiş gibi görünüyor.",
+    "shortName": "Termos"
+  },
+  "ph_ratchet_wrench": {
+    "name": "Hassas Cırcır Anahtarı",
+    "description": "Temas yüzeylerinde aşınma olan bir cırcır anahtarı. Arkasında yedek parça bırakmadan makineyi parçalara ayırabilen birine ait olabilir.",
+    "shortName": "Cırcır anahtarı"
+  },
+  "ph_pliers": {
+    "name": "Teknisyen Pensesi",
+    "description": "Çenelerinde baskı izleri ve aşınmış sapları olan düz bir pense. Bütün bu hurdaların arasında hâlâ birisinin saklamakta ısrar ettiği bir şeye benziyor.",
+    "shortName": "Pense"
+  },
+  "ph_adjustable_wrench": {
+    "name": "Tarihsel Ayarlı Anahtar",
+    "description": "Karartılmış mekanizması ve kullanım nedeniyle parlatılmış metali olan eski bir ayarlanabilir anahtar. Süslü bir şey değil, sadece yıllarca tezgahtan tezgaha taşınan bir parça.",
+    "shortName": "Kurbağacık anahtarı"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Sıfır Atölyesinin Çekici",
+    "description": "İşaretli saplı ve yıpranmış kafalı bir atölye çekici. Atölye Sıfır adı ablukadan sonra ortaya çıkmış gibi görünüyor. Orada kim çalıştıysa kapıya bir işaret bırakmamış.",
+    "shortName": "Atölye çekici"
+  }
+}

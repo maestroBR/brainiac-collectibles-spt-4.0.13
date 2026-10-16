@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Smuggler's Cassette Player",
+    "shortName": "Cassette player",
+    "description": "A portable cassette player worn by time. The tape inside has no label, just a handwritten date. A reminder of when crossing Tarkov called for less silence."
+  },
+  "ph_classic_laptop": {
+    "name": "Archivist's Laptop",
+    "shortName": "Archivist laptop",
+    "description": "An old laptop with inventory stickers on its lid and worn keys. It may once have held records from a Tarkov company. Its value now lies in what survived."
+  },
+  "ph_circuit_board": {
+    "name": "Experimental Motherboard",
+    "shortName": "Motherboard",
+    "description": "A circuit board with unusual components and traces of hand modifications. It looks like it came from a test bench rather than a production line."
+  },
+  "ph_camera_01": {
+    "name": "Correspondent's Camera",
+    "shortName": "Camera",
+    "description": "A camera that seems to have followed someone through the last days before the blockade. Its strap is worn, but the lens is intact. To a collector, some pictures are worth more than money."
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Operation Zero Transceiver",
+    "shortName": "Zero transceiver",
+    "description": "A rugged transceiver with scratched selectors and traces of a removed identification plate. The name Operation Zero circulates among military scrap dealers. No two accounts agree."
+  },
+  "ph_vintage_video_camera": {
+    "name": "Reconnaissance Camcorder",
+    "shortName": "Recon camcorder",
+    "description": "An old camcorder with transport wear on its casing. It might have recorded a factory, an escape route or just a holiday. Without the footage, all that remains is guesswork."
+  },
+  "ph_retro_multimeter": {
+    "name": "Laboratory Multimeter",
+    "shortName": "Multimeter",
+    "description": "A multimeter from another era, with a faded scale and worn probes. Its workshop may have closed, but someone still recognizes a well-kept piece."
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Operator's Digital Watch",
+    "shortName": "Digital watch",
+    "description": "An understated digital watch marked by years of use. For those trapped in Tarkov, counting the minutes took on a different meaning."
+  },
+  "ph_gamepad": {
+    "name": "Hideout Controller",
+    "shortName": "Controller",
+    "description": "A game controller with a coiled cable and worn buttons. Someone once spent a quiet evening holding it. That is the hard part to picture now."
+  },
+  "ph_small_plastic_torch": {
+    "name": "Explorer's Flashlight",
+    "shortName": "Flashlight",
+    "description": "A simple flashlight with a scratched casing, looking as though it passed through many backpacks. A collectible reminder of corridors where nobody wanted to be left in the dark."
+  },
+  "ph_vintage_binocular": {
+    "name": "Observer's Binoculars",
+    "shortName": "Observer binoculars",
+    "description": "Old binoculars with worn coating and signs of minor repairs. Whoever carried them probably preferred watching from a distance. An understandable habit in Tarkov."
+  },
+  "ph_old_gas_mask": {
+    "name": "Historical Gas Mask",
+    "shortName": "Gas mask",
+    "description": "An old-pattern gas mask with aged rubber and parts of uncertain origin. Its value is historical. Trusting it with your breathing would be another matter."
+  },
+  "ph_seadogs_compass": {
+    "name": "Navigator's Compass",
+    "shortName": "Compass",
+    "description": "An old-cased compass with handling marks on the metal. In a sealed city, knowing where north lies does not always help you find a way out."
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Colonel's Pocket Watch",
+    "shortName": "Pocket watch",
+    "description": "An old pocket watch with small scratches on its case and a well-kept chain. Nobody knows who owned it, but traders have taken to calling it the Colonel's watch."
+  },
+  "ph_vintage_lighter": {
+    "name": "Veteran's Lighter",
+    "shortName": "Lighter",
+    "description": "A metal lighter with worn corners. It passed through many pockets before reaching this place. Some buyers pay more for those marks than for a new one."
+  },
+  "ph_stick_grenade": {
+    "name": "Inert Historical Grenade",
+    "shortName": "Inert grenade",
+    "description": "A stick grenade preserved as a historical piece, with no combat function. Its shape draws attention, but collectors care about the era it came from."
+  },
+  "ph_fish_knife": {
+    "name": "Fisherman's Collectible Knife",
+    "shortName": "Collectible knife",
+    "description": "A narrow knife with a plain handle, kept as a collectible. It seems to have known more boats and fish-cleaning benches than battlefields."
+  },
+  "ph_binoculars": {
+    "name": "Field Binoculars",
+    "shortName": "Field binoculars",
+    "description": "Field binoculars with a worn strap and an unassuming look. They may have watched a checkpoint or a path through the trees. Whoever looked through them left no notes."
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Investigator's Magnifying Glass",
+    "shortName": "Magnifying glass",
+    "description": "A plain-framed magnifying glass marked by use. The sort of object that belonged on a desk piled with documents. In Tarkov, small details often hide large stories."
+  },
+  "ph_brass_blowtorch": {
+    "name": "Antique Brass Blowtorch",
+    "shortName": "Brass blowtorch",
+    "description": "A brass blowtorch with old stains and darkened metal. It has the look of a workshop that repaired things instead of throwing them away."
+  },
+  "ph_industrial_microscope": {
+    "name": "Experimental Microscope",
+    "shortName": "Microscope",
+    "description": "A sturdy microscope with adjustable parts and signs of careful use. It may have come from a laboratory or an industrial inspection station. Its original building may no longer exist."
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Space Navigation Instrument",
+    "shortName": "Space instrument",
+    "description": "A navigation instrument with an unusual dial and worn paint. Its association with space programs fuels rumors. Proving where it came from is another story."
+  },
+  "ph_binder_notebook": {
+    "name": "Researcher's Notebook",
+    "shortName": "Research notebook",
+    "description": "A worn-covered notebook with loose pages and handling marks. Not everything a researcher wrote ended up on a computer. Sometimes the last record fits in a backpack."
+  },
+  "ph_round_spectacles": {
+    "name": "Professor's Glasses",
+    "shortName": "Glasses",
+    "description": "Round glasses with a thin frame and subtle wear. The name Professor came from traders, not an identification card. The person behind the lenses remains unknown."
+  },
+  "ph_vintage_stapler": {
+    "name": "Archive Zero Stapler",
+    "shortName": "Stapler",
+    "description": "An old stapler with bright paint and the heft of another era. It outlasted the desks it helped organize. Papers disappear easily; metal tends to stay."
+  },
+  "ph_modified_thermos": {
+    "name": "Expedition Thermos",
+    "shortName": "Thermos",
+    "description": "A scuffed thermos made for long journeys. It seems to have mattered more to its former owner than its appearance suggests."
+  },
+  "ph_ratchet_wrench": {
+    "name": "Precision Ratchet Wrench",
+    "shortName": "Ratchet wrench",
+    "description": "A ratchet wrench with wear on its contact surfaces. It may have belonged to someone who could take a machine apart without leaving spare pieces behind."
+  },
+  "ph_pliers": {
+    "name": "Technician's Pliers",
+    "shortName": "Pliers",
+    "description": "A plain pair of pliers with pressure marks on the jaws and worn handles. Among all the scrap, it still looks like something someone insisted on keeping."
+  },
+  "ph_adjustable_wrench": {
+    "name": "Historical Adjustable Wrench",
+    "shortName": "Adjustable wrench",
+    "description": "An old adjustable wrench with a darkened mechanism and metal polished by use. Nothing fancy, just a piece that moved from bench to bench for years."
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Workshop Zero Hammer",
+    "shortName": "Hammer",
+    "description": "A workshop hammer with a marked handle and a battered head. The name Workshop Zero seems to have appeared after the blockade. Whoever worked there left no sign on the door."
+  }
+}

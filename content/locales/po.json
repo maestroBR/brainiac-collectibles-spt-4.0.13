@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Toca-fitas do Contrabandista",
+    "shortName": "Toca-fitas",
+    "description": "Um toca-fitas portátil gasto pelo tempo. A fita deixada dentro não tem identificação — apenas uma data escrita à mão. Uma lembrança de quando atravessar Tarkov exigia menos silêncio."
+  },
+  "ph_classic_laptop": {
+    "name": "Notebook do Arquivista",
+    "shortName": "Notebook",
+    "description": "Um notebook antigo, com etiquetas de inventário na tampa e marcas de uso nas teclas. Pode ter guardado registros de alguma empresa de Tarkov. Hoje, o valor está no que sobreviveu."
+  },
+  "ph_circuit_board": {
+    "name": "Placa-mãe Experimental",
+    "shortName": "Placa-mãe",
+    "description": "Uma placa de circuito com componentes incomuns e sinais de modificações manuais. Parece ter saído de uma bancada de testes, não de uma linha de produção."
+  },
+  "ph_camera_01": {
+    "name": "Câmera do Correspondente",
+    "shortName": "Câmera",
+    "description": "Uma câmera que parece ter acompanhado alguém até os últimos dias antes do bloqueio. A correia está gasta, mas a lente permanece inteira. Para um colecionador, algumas imagens valem mais do que dinheiro."
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Transceptor da Operação Zero",
+    "shortName": "Transceptor Zero",
+    "description": "Um transceptor robusto, com seletores riscados e vestígios de identificação removida. O nome Operação Zero circula entre quem compra sucata militar — ninguém conta a mesma história duas vezes."
+  },
+  "ph_vintage_video_camera": {
+    "name": "Filmadora de Reconhecimento",
+    "shortName": "Filmadora",
+    "description": "Uma filmadora antiga com marcas de transporte na carcaça. Pode ter registrado uma fábrica, uma rota de fuga ou apenas férias. Sem a gravação, restam as hipóteses."
+  },
+  "ph_retro_multimeter": {
+    "name": "Multímetro de Laboratório",
+    "shortName": "Multímetro",
+    "description": "Um multímetro de outra época, com escala desbotada e pontas de prova gastas. A oficina de onde veio talvez tenha fechado, mas alguém ainda reconhece o valor de uma peça bem cuidada."
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Relógio Digital do Operador",
+    "shortName": "Relógio digital",
+    "description": "Um relógio digital discreto, marcado por anos de uso. Para quem ficou preso em Tarkov, contar os minutos virou uma tarefa bem diferente."
+  },
+  "ph_gamepad": {
+    "name": "Controle do Abrigo",
+    "shortName": "Controle",
+    "description": "Um controle de videogame com cabo enrolado e botões gastos. Alguém já passou uma noite tranquila com ele nas mãos. Essa é a parte difícil de imaginar agora."
+  },
+  "ph_small_plastic_torch": {
+    "name": "Lanterna do Explorador",
+    "shortName": "Lanterna",
+    "description": "Uma lanterna simples, com arranhões na carcaça e o aspecto de quem passou por muitas mochilas. Uma peça de coleção que lembra corredores onde ninguém queria ficar no escuro."
+  },
+  "ph_vintage_binocular": {
+    "name": "Binóculos do Observador",
+    "shortName": "Binóculos antigos",
+    "description": "Binóculos antigos com revestimento gasto e pequenos sinais de reparo. Quem os carregava provavelmente preferia observar de longe. Um hábito compreensível em Tarkov."
+  },
+  "ph_old_gas_mask": {
+    "name": "Máscara de Gás Histórica",
+    "shortName": "Máscara de gás",
+    "description": "Uma máscara de gás de modelo antigo, com borracha envelhecida e peças de procedência incerta. Vale pela história; confiar nela para respirar seria outra conversa."
+  },
+  "ph_seadogs_compass": {
+    "name": "Bússola do Navegador",
+    "shortName": "Bússola",
+    "description": "Uma bússola de caixa antiga, com marcas de dedos no metal. Em uma cidade cercada, saber onde fica o norte nem sempre ajuda a encontrar uma saída."
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Relógio de Bolso do Coronel",
+    "shortName": "Relógio de bolso",
+    "description": "Um relógio de bolso antigo, com pequenos riscos na caixa e uma corrente bem conservada. Ninguém sabe a quem pertenceu, mas o apelido de Coronel pegou entre os comerciantes."
+  },
+  "ph_vintage_lighter": {
+    "name": "Isqueiro do Veterano",
+    "shortName": "Isqueiro",
+    "description": "Um isqueiro de metal com acabamento gasto nos cantos. Passou por muitos bolsos antes de chegar aqui. Há quem pague mais por essas marcas do que por uma peça nova."
+  },
+  "ph_stick_grenade": {
+    "name": "Granada Histórica Inerte",
+    "shortName": "Granada inerte",
+    "description": "Uma granada de cabo preservada como peça histórica, sem função de combate. O formato chama atenção, mas o que interessa ao colecionador é a época de onde veio."
+  },
+  "ph_fish_knife": {
+    "name": "Faca de Coleção do Pescador",
+    "shortName": "Faca de coleção",
+    "description": "Uma faca estreita de cabo simples, guardada como objeto de coleção. Parece ter conhecido mais barcos e bancadas de peixe do que campos de batalha."
+  },
+  "ph_binoculars": {
+    "name": "Binóculos de Campanha",
+    "shortName": "Binóculos de campo",
+    "description": "Binóculos de campo com correia gasta e uma aparência discreta. Podem ter observado um posto de controle ou um caminho entre as árvores. Quem olhava por eles não deixou anotações."
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Lupa do Investigador",
+    "shortName": "Lupa",
+    "description": "Uma lupa de aro simples, marcada pelo uso. O tipo de objeto que fazia sentido numa mesa cheia de documentos. Em Tarkov, detalhes pequenos costumam esconder histórias grandes."
+  },
+  "ph_brass_blowtorch": {
+    "name": "Maçarico de Latão Antigo",
+    "shortName": "Maçarico antigo",
+    "description": "Um maçarico de latão com manchas antigas e metal escurecido. Carrega o aspecto de uma oficina que consertava as coisas em vez de descartá-las."
+  },
+  "ph_industrial_microscope": {
+    "name": "Microscópio Experimental",
+    "shortName": "Microscópio",
+    "description": "Um microscópio robusto, com peças ajustáveis e sinais de uso cuidadoso. Pode ter vindo de um laboratório ou de uma inspeção industrial. O prédio de origem talvez já não exista."
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Instrumento de Navegação Espacial",
+    "shortName": "Navegação espacial",
+    "description": "Um instrumento de navegação com mostrador incomum e pintura desgastada. A associação com programas espaciais alimenta rumores — provar a procedência é outra história."
+  },
+  "ph_binder_notebook": {
+    "name": "Caderno do Pesquisador",
+    "shortName": "Caderno",
+    "description": "Um caderno de capa usada, com folhas soltas e marcas de manuseio. Nem tudo que um pesquisador anotava ficava nos computadores. Às vezes, o último registro cabe numa mochila."
+  },
+  "ph_round_spectacles": {
+    "name": "Óculos do Professor",
+    "shortName": "Óculos",
+    "description": "Óculos redondos com armação fina e marcas discretas de uso. O apelido Professor veio dos comerciantes, não de uma identificação. A pessoa por trás das lentes continua desconhecida."
+  },
+  "ph_vintage_stapler": {
+    "name": "Grampeador do Arquivo Zero",
+    "shortName": "Grampeador",
+    "description": "Um grampeador antigo com pintura chamativa e peso de outra época. Sobreviveu às mesas que organizava. Papéis desaparecem com facilidade; o metal costuma ficar."
+  },
+  "ph_modified_thermos": {
+    "name": "Garrafa Térmica de Expedição",
+    "shortName": "Garrafa térmica",
+    "description": "Uma garrafa térmica de corpo marcado, feita para acompanhar viagens longas. Parece ter sido mais importante para o antigo dono do que sua aparência sugere."
+  },
+  "ph_ratchet_wrench": {
+    "name": "Chave de Catraca de Precisão",
+    "shortName": "Chave de catraca",
+    "description": "Uma chave de catraca com acabamento gasto nas áreas de contato. Pode ter pertencido a alguém que sabia desmontar uma máquina sem deixar peças sobrando."
+  },
+  "ph_pliers": {
+    "name": "Alicate do Técnico",
+    "shortName": "Alicate",
+    "description": "Um alicate simples, com marcas de pressão nas mandíbulas e cabo usado. Entre tanta sucata, ainda conserva o aspecto de uma ferramenta que alguém fazia questão de guardar."
+  },
+  "ph_adjustable_wrench": {
+    "name": "Chave Ajustável Histórica",
+    "shortName": "Chave ajustável",
+    "description": "Uma chave ajustável antiga, com mecanismo escurecido e metal polido pelo uso. Nada sofisticado — só uma peça que passou de bancada em bancada durante anos."
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Martelo da Oficina Zero",
+    "shortName": "Martelo",
+    "description": "Um martelo de oficina com cabo marcado e cabeça castigada pelo trabalho. O nome Oficina Zero parece ter surgido depois do bloqueio. Quem trabalhava lá não deixou placa na porta."
+  }
+}

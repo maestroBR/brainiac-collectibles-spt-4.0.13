@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Odtwarzacz kasetowy przemytnika",
+    "description": "Przenośny odtwarzacz kasetowy zużyty przez czas. Wewnątrz taśmy nie ma żadnej etykiety, jedynie odręcznie napisana data. Przypomnienie o przekroczeniu Tarkowa wymagało mniejszej ciszy.",
+    "shortName": "Odtwarzacz kaset"
+  },
+  "ph_classic_laptop": {
+    "name": "Laptop archiwisty",
+    "description": "Stary laptop z naklejkami inwentaryzacyjnymi na pokrywie i zużytymi klawiszami. Być może przechowywał kiedyś dokumentację firmy z Tarkowa. Jego wartość zależy teraz od tego, co przetrwało.",
+    "shortName": "Laptop"
+  },
+  "ph_circuit_board": {
+    "name": "Eksperymentalna płyta główna",
+    "description": "Płytka drukowana z nietypowymi elementami i śladami ręcznych modyfikacji. Wygląda, jakby pochodziło ze stanowiska testowego, a nie z linii produkcyjnej.",
+    "shortName": "Płyta główna"
+  },
+  "ph_camera_01": {
+    "name": "Aparat korespondenta",
+    "description": "Kamera, która prawdopodobnie śledziła kogoś przez ostatnie dni przed blokadą. Pasek jest zużyty, ale obiektyw jest nienaruszony. Dla kolekcjonera niektóre obrazy są warte więcej niż pieniądze.",
+    "shortName": "Aparat"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Radiostacja Operacji Zero",
+    "description": "Wytrzymały transceiver z porysowanymi selektorami i śladami usuniętej tabliczki identyfikacyjnej. Wśród handlarzy złomem wojskowym krąży nazwa Operacja Zero. Nie ma dwóch zgodnych relacji na temat jego historii.",
+    "shortName": "Radiostacja Zero"
+  },
+  "ph_vintage_video_camera": {
+    "name": "Kamera rozpoznawcza",
+    "description": "Stara kamera wideo ze śladami transportowymi na obudowie. Mógł nagrać fabrykę, drogę ucieczki lub po prostu wakacje. Bez materiału filmowego pozostają jedynie domysły.",
+    "shortName": "Kamera wideo"
+  },
+  "ph_retro_multimeter": {
+    "name": "Multimetr laboratoryjny",
+    "description": "Multimetr z innej epoki, z wyblakłą skalą i zużytymi sondami. Być może warsztat został zamknięty, ale ktoś nadal rozpoznaje dobrze utrzymany egzemplarz.",
+    "shortName": "Multimetr"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Cyfrowy zegarek operatora",
+    "description": "Skromny zegarek cyfrowy naznaczony latami użytkowania. Dla uwięzionych w Tarkowie liczenie minut nabrało innego znaczenia.",
+    "shortName": "Zegarek cyfrowy"
+  },
+  "ph_gamepad": {
+    "name": "Kontroler kryjówki",
+    "description": "Kontroler do gier ze zwiniętym kablem i zużytymi przyciskami. Ktoś kiedyś spędził spokojny wieczór, trzymając go. To jest teraz trudna część do wyobrażenia sobie.",
+    "shortName": "Kontroler"
+  },
+  "ph_small_plastic_torch": {
+    "name": "Latarka Odkrywcy",
+    "description": "Prosta latarka z porysowaną obudową, wyglądającą jakby przeszła przez wiele plecaków. Kolekcjonerska pamiątka po korytarzach, w których nikt nie chciał pozostać w ciemności.",
+    "shortName": "Latarka"
+  },
+  "ph_vintage_binocular": {
+    "name": "Lornetka obserwatora",
+    "description": "Stara lornetka ze zużytą powłoką i śladami drobnych napraw. Ktokolwiek je nosił, prawdopodobnie wolał oglądać je z daleka. Zrozumiały zwyczaj w Tarkowie.",
+    "shortName": "Stara lornetka"
+  },
+  "ph_old_gas_mask": {
+    "name": "Historyczna maska gazowa",
+    "description": "Maska gazowa starego typu, ze starą gumą i częściami niewiadomego pochodzenia. Ma wartość historyczną. Powierzenie jej ochrony własnego oddechu to zupełnie inna sprawa.",
+    "shortName": "Maska gazowa"
+  },
+  "ph_seadogs_compass": {
+    "name": "Kompas nawigatora",
+    "description": "Kompas w starej obudowie ze znakami manipulacyjnymi na metalu. W zamkniętym mieście wiedza o tym, gdzie leży północ, nie zawsze pomaga znaleźć wyjście.",
+    "shortName": "Kompas"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Zegarek kieszonkowy pułkownika",
+    "description": "Stary zegarek kieszonkowy z drobnymi rysami na kopercie i dobrze utrzymanym łańcuszku. Nikt nie wie, kto był jego właścicielem, ale handlarze zaczęli nazywać go zegarkiem pułkownika.",
+    "shortName": "Zegarek kieszonkowy"
+  },
+  "ph_vintage_lighter": {
+    "name": "Zapalniczka weterana",
+    "description": "Metalowa zapalniczka z przetartymi narożnikami. Zanim dotarł do tego miejsca, przeszedł przez wiele kieszeni. Niektórzy kupujący płacą więcej za te znaki niż za nowe.",
+    "shortName": "Zapalniczka"
+  },
+  "ph_stick_grenade": {
+    "name": "Nieaktywny granat historyczny",
+    "description": "Granat kijowy zachowany jako przedmiot historyczny, bez funkcji bojowej. Uwagę zwraca jego kształt, jednak kolekcjonerom zależy na epoce, z której pochodzi.",
+    "shortName": "Atrapa granatu"
+  },
+  "ph_fish_knife": {
+    "name": "Nóż kolekcjonerski rybaka",
+    "description": "Wąski nóż z prostą rękojeścią, zachowany jako przedmiot kolekcjonerski. Wygląda na to, że częściej gościł na łodziach i stołach do sprawiania ryb niż na polach bitew.",
+    "shortName": "Nóż wędkarski"
+  },
+  "ph_binoculars": {
+    "name": "Lornetka terenowa",
+    "description": "Lornetka polowa z zużytym paskiem i niepozornym wyglądem. Być może obserwowali punkt kontrolny lub ścieżkę wśród drzew. Ktokolwiek je przeglądał, nie zostawił żadnych notatek.",
+    "shortName": "Lornetka"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Szkło powiększające badacza",
+    "description": "Szkło powiększające w gładkiej ramce, oznaczone według użytkowania. Przedmiot, który powinien leżeć na biurku wypełnionym dokumentami. W Tarkovie drobne szczegóły często kryją duże historie.",
+    "shortName": "Lupa"
+  },
+  "ph_brass_blowtorch": {
+    "name": "Zabytkowa mosiężna lampa lutownicza",
+    "description": "Mosiężna lampa lutownicza ze starymi plamami i przyciemnionym metalem. Przypomina warsztat, który naprawia rzeczy, zamiast je wyrzucać.",
+    "shortName": "Palnik"
+  },
+  "ph_industrial_microscope": {
+    "name": "Mikroskop eksperymentalny",
+    "description": "Solidny mikroskop z regulowanymi częściami i śladami starannego użytkowania. Może pochodzić z laboratorium lub przemysłowej stacji kontroli. Być może pierwotny budynek już nie istnieje.",
+    "shortName": "Mikroskop"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Instrument do nawigacji kosmicznej",
+    "description": "Przyrząd nawigacyjny z nietypową tarczą i zużytym lakierem. Jego powiązania z programami kosmicznymi podsycają plotki. Udowodnienie, skąd pochodzi, to inna historia.",
+    "shortName": "Przyrząd kosmiczny"
+  },
+  "ph_binder_notebook": {
+    "name": "Notatnik naukowca",
+    "description": "Podniszczony notatnik z luźnymi kartkami i śladami manipulacyjnymi. Nie wszystko, co napisał badacz, trafiało do komputera. Czasem ostatnia płyta mieści się w plecaku.",
+    "shortName": "Notatnik"
+  },
+  "ph_round_spectacles": {
+    "name": "Okulary profesorskie",
+    "description": "Okrągłe okulary z cienką oprawką i delikatnym zużyciem. Imię Profesor wzięło się od handlarzy, a nie z dowodu osobistego. Osoba stojąca za obiektywami pozostaje nieznana.",
+    "shortName": "Okulary"
+  },
+  "ph_vintage_stapler": {
+    "name": "Zszywacz Archiwum Zero",
+    "description": "Stary zszywacz z jasną farbą i wagą z innej epoki. Przetrwał biurka, które pomagał organizować. Papiery łatwo znikają; metal zwykle zostaje.",
+    "shortName": "Zszywacz"
+  },
+  "ph_modified_thermos": {
+    "name": "Termos ekspedycyjny",
+    "description": "Przetarty termos przeznaczony na długie podróże. Wygląda na to, że dla poprzedniego właściciela znaczył więcej, niż sugeruje jego wygląd.",
+    "shortName": "Termos"
+  },
+  "ph_ratchet_wrench": {
+    "name": "Precyzyjny klucz grzechotkowy",
+    "description": "Klucz grzechotkowy ze zużytymi powierzchniami stykowymi. Mógł należeć do kogoś, kto potrafiłby rozebrać maszynę na części, nie zostawiając części zamiennych.",
+    "shortName": "Klucz z grzechotką"
+  },
+  "ph_pliers": {
+    "name": "Szczypce technika",
+    "description": "Zwykłe szczypce ze śladami nacisku na szczękach i zużytymi uchwytami. Pośród całego złomu nadal wygląda na coś, co ktoś nalegał, aby go zatrzymać.",
+    "shortName": "Szczypce"
+  },
+  "ph_adjustable_wrench": {
+    "name": "Historyczny klucz nastawny",
+    "description": "Stary klucz nastawny z przyciemnionym mechanizmem i metalem wypolerowanym w wyniku użytkowania. Nic nadzwyczajnego, po prostu kawałek, który przez lata przenosił się z ławki na ławkę.",
+    "shortName": "Klucz nastawny"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Młotek Warsztatu Zero",
+    "description": "Młotek warsztatowy z zaznaczoną rękojeścią i poobijaną główką. Wydaje się, że nazwa Warsztat Zero pojawiła się po blokadzie. Ktokolwiek tam pracował, nie zostawił żadnego znaku na drzwiach.",
+    "shortName": "Młotek"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Csempész kazettás lejátszója",
+    "description": "Egy hordozható kazettás lejátszó, amit az idő megviselt. A belső szalagon nincs címke, csak kézzel írt dátum. A Tarkovon való átkelésre való emlékeztetés kevesebb csendre szólított fel.",
+    "shortName": "Kazettás lejátszó"
+  },
+  "ph_classic_laptop": {
+    "name": "Levéltáros laptopja",
+    "description": "Régi laptop leltári matricákkal a fedelén és kopott billentyűkkel. Valaha egy tarkovi vállalat iratait tárolhatta. Az értéke ma abban rejlik, ami megmaradt rajta.",
+    "shortName": "Laptop"
+  },
+  "ph_circuit_board": {
+    "name": "Kísérleti alaplap",
+    "description": "Egy áramköri kártya szokatlan alkatrészekkel és kézi módosítások nyomaival. Úgy tűnik, mintha egy tesztpadról származna, nem pedig egy gyártósorról.",
+    "shortName": "Alaplap"
+  },
+  "ph_camera_01": {
+    "name": "A tudósító kamerája",
+    "description": "Egy kamera, amely mintha követett volna valakit a blokád előtti utolsó napokon. A pántja kopott, de a lencse ép. Egy gyűjtő számára egyes képek többet érnek, mint a pénz.",
+    "shortName": "Fényképezőgép"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "A Zero művelet adóvevője",
+    "description": "Masszív adó-vevő, karcos választókkal és eltávolított azonosítótábla nyomaival. Az Operation Zero név kering a katonai hulladékkereskedők körében. Nem egyezik két fiók.",
+    "shortName": "Zero adóvevő"
+  },
+  "ph_vintage_video_camera": {
+    "name": "Felderítő kamera",
+    "description": "Egy régi videokamera, burkolatán szállítási kopás. Lehet, hogy egy gyárat, egy menekülési útvonalat vagy csak egy nyaralást rögzített. A felvételek nélkül már csak találgatás marad.",
+    "shortName": "Videókamera"
+  },
+  "ph_retro_multimeter": {
+    "name": "Laboratóriumi multiméter",
+    "description": "Egy másik korszakból származó multiméter, kifakult skálával, kopott szondákkal. Lehet, hogy a műhelye bezárt, de valaki mégis felismer egy jól karbantartott darabot.",
+    "shortName": "Multiméter"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Kezelői digitális óra",
+    "description": "Egy visszafogott digitális óra, amelyet több éves használat jellemez. A Tarkovban rekedtek számára a percek számolása más jelentést kapott.",
+    "shortName": "Digitális óra"
+  },
+  "ph_gamepad": {
+    "name": "A rejtekhely kontrollere",
+    "description": "Tekercses kábellel és kopott gombokkal ellátott játékvezérlő. Valaki egyszer egy csendes estét töltött a kezében. Ezt most nehéz elképzelni.",
+    "shortName": "Kontroller"
+  },
+  "ph_small_plastic_torch": {
+    "name": "Felfedező zseblámpája",
+    "description": "Egy egyszerű zseblámpa karcos házzal, és úgy néz ki, mintha sok hátizsákon keresztülhaladna. Gyűjthető emlékeztető a folyosókról, ahol senki sem akart sötétben maradni.",
+    "shortName": "Zseblámpa"
+  },
+  "ph_vintage_binocular": {
+    "name": "Megfigyelő távcső",
+    "description": "Régi távcső kopott bevonattal, kisebb javítások nyomaival. Aki vitte őket, valószínűleg inkább távolról nézte. Érthető szokás Tarkovban.",
+    "shortName": "Régi távcső"
+  },
+  "ph_old_gas_mask": {
+    "name": "Történelmi gázálarc",
+    "description": "Régi típusú gázálarc elöregedett gumival és bizonytalan eredetű alkatrészekkel. Történelmi értéke van. Más kérdés, hogy rábíznád-e a légzésed védelmét.",
+    "shortName": "Gázmaszk"
+  },
+  "ph_seadogs_compass": {
+    "name": "Navigátor iránytűje",
+    "description": "Egy régi burkolatú iránytű kezelési jelekkel a fémen. Egy lezárt városban, ha tudja, hol van észak, nem mindig segít megtalálni a kiutat.",
+    "shortName": "Iránytű"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Ezredes zsebórája",
+    "description": "Régi zsebóra, a tokján apró karcok és egy jól karbantartott lánc. Senki sem tudja, kié volt, de a kereskedők az ezredes órájának hívták.",
+    "shortName": "Zsebóra"
+  },
+  "ph_vintage_lighter": {
+    "name": "Veterán öngyújtó",
+    "description": "Fém öngyújtó kopott sarkokkal. Sok zseben áthaladt, mielőtt elérte ezt a helyet. Egyes vásárlók többet fizetnek ezekért a márkákért, mint egy újért.",
+    "shortName": "Öngyújtó"
+  },
+  "ph_stick_grenade": {
+    "name": "Hatástalanított történelmi gránát",
+    "description": "Történelmi darabként megőrzött botgránát, harci funkció nélkül. A formája felhívja a figyelmet, de a gyűjtőket érdekli a korszak, amelyből származik.",
+    "shortName": "Hatástalan gránát"
+  },
+  "ph_fish_knife": {
+    "name": "Halász gyűjtőkés",
+    "description": "Keskeny kés egyszerű markolattal, gyűjtői darabként megőrizve. Úgy tűnik, több időt töltött csónakokon és haltisztító asztalokon, mint csatatereken.",
+    "shortName": "Horgászkés"
+  },
+  "ph_binoculars": {
+    "name": "Terepi távcső",
+    "description": "Mezei távcső kopott szíjjal, igénytelen megjelenéssel. Lehet, hogy egy ellenőrzőpontot vagy egy utat figyeltek a fák között. Aki átnézett rajtuk, nem hagyott jegyzeteket.",
+    "shortName": "Távcső"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Nyomozói nagyító",
+    "description": "Egy sima keretes nagyító, amelyen használat jelzett. Olyan tárgy, ami egy iratokkal telerakott asztalon volt. Tarkovban az apró részletek gyakran nagy történeteket rejtenek.",
+    "shortName": "Nagyító"
+  },
+  "ph_brass_blowtorch": {
+    "name": "Antik sárgaréz fúvólámpa",
+    "description": "Sárgaréz fújólámpa régi foltokkal és elsötétített fémmel. Úgy néz ki, mint egy műhely, ahol megjavították a dolgokat, ahelyett, hogy kidobták volna.",
+    "shortName": "Forrasztólámpa"
+  },
+  "ph_industrial_microscope": {
+    "name": "Kísérleti mikroszkóp",
+    "description": "Erős mikroszkóp állítható részekkel és a gondos használat jeleivel. Lehet, hogy egy laboratóriumból vagy egy ipari ellenőrző állomásról származott. Lehetséges, hogy eredeti épülete már nem létezik.",
+    "shortName": "Mikroszkóp"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Űrnavigációs műszer",
+    "description": "Szokatlan számlappal és kopott festéssel rendelkező navigációs műszer. Az űrprogramokkal való kapcsolata pletykákat szít. Annak bizonyítása, hogy honnan jött, az egy másik történet.",
+    "shortName": "Űrnavigációs műszer"
+  },
+  "ph_binder_notebook": {
+    "name": "Kutatói Jegyzetfüzet",
+    "description": "Kopott fedelű jegyzetfüzet laza lapokkal, kezelési nyomokkal. Nem minden, amit egy kutató írt, nem került számítógépre. Néha az utolsó lemez is elfér egy hátizsákban.",
+    "shortName": "Jegyzetfüzet"
+  },
+  "ph_round_spectacles": {
+    "name": "Professzori szemüveg",
+    "description": "Kerek szemüveg vékony kerettel és finom viselettel. A Professzor név a kereskedőktől származott, nem egy azonosító kártya. A lencsék mögött álló személy továbbra is ismeretlen.",
+    "shortName": "Szemüveg"
+  },
+  "ph_vintage_stapler": {
+    "name": "A Zero archívum tűzőgépe",
+    "description": "Egy régi tűzőgép, fényes festékkel és egy másik korszak súlyával. Túlélte a rendszerezésben segített asztalokat. A papírok könnyen eltűnnek; fém hajlamos maradni.",
+    "shortName": "Tűzőgép"
+  },
+  "ph_modified_thermos": {
+    "name": "Expedíciós termosz",
+    "description": "Hosszú utakra készült, kopott termosz. Úgy tűnik, többet számított egykori tulajdonosának, mint azt a megjelenése sugallja.",
+    "shortName": "Termosz"
+  },
+  "ph_ratchet_wrench": {
+    "name": "Precíziós racsnis kulcs",
+    "description": "Egy racsnis villáskulcs, érintkező felületein kopott. Valakié lehetett, aki szét tudott szedni egy gépet anélkül, hogy tartalék darabokat hagyna hátra.",
+    "shortName": "Racsnis kulcs"
+  },
+  "ph_pliers": {
+    "name": "Technikus fogója",
+    "description": "Sima fogó, az állkapcsokon nyomásnyomok és kopott fogantyúk. A sok selejt között még mindig úgy néz ki, mintha valaki ragaszkodott volna a megtartásához.",
+    "shortName": "Fogó"
+  },
+  "ph_adjustable_wrench": {
+    "name": "Történelmi állítható csavarkulcs",
+    "description": "Egy régi állítható csavarkulcs, sötétített mechanizmussal és használattal polírozott fémmel. Semmi divatos, csak egy darab, ami éveken át költözött padról padra.",
+    "shortName": "Állítható kulcs"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "A Zero műhely kalapácsa",
+    "description": "Műhelykalapács jelzett nyéllel, ütött-kopott fejjel. A Workshop Zero név úgy tűnik, a blokád után jelent meg. Aki ott dolgozott, nem hagyott táblát az ajtón.",
+    "shortName": "Kalapács"
+  }
+}

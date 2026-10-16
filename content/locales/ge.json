@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Kassettenspieler des Schmugglers",
+    "shortName": "Kassettenspieler",
+    "description": "Ein vom Alter gezeichneter Kassettenspieler. Auf der eingelegten Kassette steht nur ein handgeschriebenes Datum. Eine Erinnerung an Zeiten, in denen man Tarkov weniger leise durchqueren musste."
+  },
+  "ph_classic_laptop": {
+    "name": "Laptop des Archivars",
+    "shortName": "Archiv-Laptop",
+    "description": "Ein alter Laptop mit Inventaraufklebern auf dem Deckel und abgenutzten Tasten. Vielleicht enthielt er einmal die Unterlagen einer Firma aus Tarkov. Sein Wert liegt heute darin, dass er überlebt hat."
+  },
+  "ph_circuit_board": {
+    "name": "Experimentelles Mainboard",
+    "shortName": "Mainboard",
+    "description": "Eine Platine mit ungewöhnlichen Bauteilen und Spuren manueller Änderungen. Sie scheint eher von einem Prüfstand als aus einer Serienfertigung zu stammen."
+  },
+  "ph_camera_01": {
+    "name": "Kamera des Korrespondenten",
+    "shortName": "Kamera",
+    "description": "Eine Kamera, die jemanden bis in die letzten Tage vor der Abriegelung begleitet haben könnte. Der Riemen ist abgenutzt, das Objektiv aber unversehrt. Für einen Sammler sind manche Bilder mehr wert als Geld."
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Funkgerät der Operation Zero",
+    "shortName": "Zero-Funkgerät",
+    "description": "Ein robustes Funkgerät mit zerkratzten Wahlschaltern und Spuren eines entfernten Typenschilds. Bei Militärschrotthändlern kursiert der Name Operation Zero. Keine zwei Geschichten stimmen überein."
+  },
+  "ph_vintage_video_camera": {
+    "name": "Aufklärungs-Videokamera",
+    "shortName": "Videokamera",
+    "description": "Eine alte Videokamera mit Transportspuren am Gehäuse. Vielleicht filmte sie eine Fabrik, einen Fluchtweg oder nur einen Urlaub. Ohne die Aufnahmen bleiben nur Vermutungen."
+  },
+  "ph_retro_multimeter": {
+    "name": "Labor-Multimeter",
+    "shortName": "Multimeter",
+    "description": "Ein Multimeter aus einer anderen Zeit, mit verblasster Skala und abgenutzten Messspitzen. Seine Werkstatt mag geschlossen sein, doch jemand weiß ein gepflegtes Stück noch zu schätzen."
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Digitaluhr des Operators",
+    "shortName": "Digitaluhr",
+    "description": "Eine schlichte Digitaluhr, gezeichnet von jahrelangem Gebrauch. Für die Eingeschlossenen in Tarkov hat das Zählen der Minuten eine andere Bedeutung bekommen."
+  },
+  "ph_gamepad": {
+    "name": "Controller aus dem Versteck",
+    "shortName": "Controller",
+    "description": "Ein Spielecontroller mit aufgewickeltem Kabel und abgenutzten Tasten. Jemand verbrachte damit einmal einen ruhigen Abend. Das lässt sich heute nur schwer vorstellen."
+  },
+  "ph_small_plastic_torch": {
+    "name": "Taschenlampe des Entdeckers",
+    "shortName": "Taschenlampe",
+    "description": "Eine einfache Taschenlampe mit zerkratztem Gehäuse, die wohl durch viele Rucksäcke gewandert ist. Ein Sammlerstück, das an Flure erinnert, in denen niemand im Dunkeln stehen wollte."
+  },
+  "ph_vintage_binocular": {
+    "name": "Fernglas des Beobachters",
+    "shortName": "Beobachter-Fernglas",
+    "description": "Ein altes Fernglas mit abgenutzter Beschichtung und kleinen Reparaturspuren. Sein Besitzer beobachtete vermutlich lieber aus der Ferne. In Tarkov ein verständlicher Wunsch."
+  },
+  "ph_old_gas_mask": {
+    "name": "Historische Gasmaske",
+    "shortName": "Gasmaske",
+    "description": "Eine Gasmaske älterer Bauart mit gealtertem Gummi und Teilen unbekannter Herkunft. Ihr Wert ist historisch. Ihr die eigene Atemluft anzuvertrauen wäre eine andere Sache."
+  },
+  "ph_seadogs_compass": {
+    "name": "Kompass des Navigators",
+    "shortName": "Kompass",
+    "description": "Ein Kompass in einem alten Gehäuse mit Gebrauchsspuren am Metall. In einer abgeriegelten Stadt führt das Wissen um Norden nicht immer zu einem Ausgang."
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Taschenuhr des Obersts",
+    "shortName": "Taschenuhr",
+    "description": "Eine alte Taschenuhr mit kleinen Kratzern am Gehäuse und gut erhaltener Kette. Niemand kennt ihren Besitzer, doch bei Händlern hat sich der Name Oberst eingebürgert."
+  },
+  "ph_vintage_lighter": {
+    "name": "Feuerzeug des Veteranen",
+    "shortName": "Feuerzeug",
+    "description": "Ein Metallfeuerzeug mit abgenutzten Ecken. Es wanderte durch viele Taschen, bevor es hier ankam. Manche Käufer zahlen für diese Spuren mehr als für ein neues Stück."
+  },
+  "ph_stick_grenade": {
+    "name": "Inerte historische Granate",
+    "shortName": "Inerte Granate",
+    "description": "Eine Stielgranate, erhalten als historisches Stück ohne Kampffunktion. Ihre Form fällt auf, doch für Sammler zählt die Epoche, aus der sie stammt."
+  },
+  "ph_fish_knife": {
+    "name": "Sammlermesser des Fischers",
+    "shortName": "Sammlermesser",
+    "description": "Ein schmales Messer mit einfachem Griff, aufbewahrt als Sammlerstück. Es scheint mehr Boote und Fischtheken als Schlachtfelder gesehen zu haben."
+  },
+  "ph_binoculars": {
+    "name": "Feldfernglas",
+    "shortName": "Feldfernglas",
+    "description": "Ein unauffälliges Feldfernglas mit abgenutztem Riemen. Vielleicht beobachtete es einen Kontrollpunkt oder einen Waldweg. Sein Nutzer hinterließ keine Notizen."
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Lupe des Ermittlers",
+    "shortName": "Lupe",
+    "description": "Eine Lupe mit schlichtem Rahmen und Gebrauchsspuren. So ein Gegenstand gehört auf einen Schreibtisch voller Unterlagen. In Tarkov verbergen kleine Details oft große Geschichten."
+  },
+  "ph_brass_blowtorch": {
+    "name": "Antike Messinglötlampe",
+    "shortName": "Messinglötlampe",
+    "description": "Eine Messinglötlampe mit alten Flecken und dunkel gewordenem Metall. Sie erinnert an eine Werkstatt, die Dinge reparierte, statt sie wegzuwerfen."
+  },
+  "ph_industrial_microscope": {
+    "name": "Experimentelles Mikroskop",
+    "shortName": "Mikroskop",
+    "description": "Ein robustes Mikroskop mit verstellbaren Teilen und Spuren sorgfältigen Gebrauchs. Vielleicht stammt es aus einem Labor oder einer industriellen Prüfstelle. Das Gebäude existiert womöglich nicht mehr."
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Instrument zur Weltraumnavigation",
+    "shortName": "Navigationsgerät",
+    "description": "Ein Navigationsinstrument mit ungewöhnlicher Anzeige und abgenutztem Lack. Die Verbindung zu Raumfahrtprogrammen nährt Gerüchte. Seine Herkunft zu beweisen ist eine andere Geschichte."
+  },
+  "ph_binder_notebook": {
+    "name": "Notizbuch des Forschers",
+    "shortName": "Notizbuch",
+    "description": "Ein Notizbuch mit abgenutztem Einband, losen Seiten und Gebrauchsspuren. Nicht jede Forschernotiz landete im Computer. Manchmal passt die letzte Aufzeichnung in einen Rucksack."
+  },
+  "ph_round_spectacles": {
+    "name": "Brille des Professors",
+    "shortName": "Brille",
+    "description": "Eine runde Brille mit dünnem Rahmen und leichten Gebrauchsspuren. Der Name Professor stammt von Händlern, nicht aus einem Ausweis. Die Person hinter den Gläsern bleibt unbekannt."
+  },
+  "ph_vintage_stapler": {
+    "name": "Hefter des Archivs Zero",
+    "shortName": "Hefter",
+    "description": "Ein alter Hefter mit auffälliger Farbe und dem Gewicht einer anderen Zeit. Er überdauerte die Schreibtische, die er ordnete. Papier verschwindet schnell; Metall bleibt meist zurück."
+  },
+  "ph_modified_thermos": {
+    "name": "Expeditions-Thermoskanne",
+    "shortName": "Thermoskanne",
+    "description": "Eine zerkratzte Thermoskanne für lange Reisen. Ihrem früheren Besitzer war sie offenbar wichtiger, als ihr Aussehen vermuten lässt."
+  },
+  "ph_ratchet_wrench": {
+    "name": "Präzisions-Ratschenschlüssel",
+    "shortName": "Ratschenschlüssel",
+    "description": "Ein Ratschenschlüssel mit abgenutzten Kontaktflächen. Vielleicht gehörte er jemandem, der eine Maschine zerlegen konnte, ohne Teile übrig zu behalten."
+  },
+  "ph_pliers": {
+    "name": "Zange des Technikers",
+    "shortName": "Zange",
+    "description": "Eine einfache Zange mit Druckspuren an den Backen und abgenutzten Griffen. Zwischen all dem Schrott wirkt sie noch immer wie etwas, das jemand unbedingt behalten wollte."
+  },
+  "ph_adjustable_wrench": {
+    "name": "Historischer Rollgabelschlüssel",
+    "shortName": "Rollgabelschlüssel",
+    "description": "Ein alter Rollgabelschlüssel mit dunklem Mechanismus und vom Gebrauch poliertem Metall. Nichts Besonderes — nur ein Stück, das jahrelang von Werkbank zu Werkbank wanderte."
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Hammer der Werkstatt Zero",
+    "shortName": "Hammer",
+    "description": "Ein Werkstatthammer mit gezeichnetem Griff und verschlissenem Kopf. Der Name Werkstatt Zero scheint erst nach der Abriegelung entstanden zu sein. Wer dort arbeitete, hinterließ kein Schild an der Tür."
+  }
+}

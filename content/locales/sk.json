@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "Pašerácky kazetový prehrávač",
+    "description": "Časom opotrebovaný prenosný kazetový prehrávač. Páska vo vnútri nemá štítok, len ručne písaný dátum. Pripomenutie toho, že prechod cez Tarkov si vyžiadal menej ticha.",
+    "shortName": "Kazetový prehrávač"
+  },
+  "ph_classic_laptop": {
+    "name": "Archivársky notebook",
+    "description": "Starý notebook s inventárnymi štítkami na veku a opotrebovanými klávesmi. Možno kedysi uchovával záznamy jednej tarkovskej firmy. Jeho hodnota dnes spočíva v tom, čo sa zachovalo.",
+    "shortName": "Notebook"
+  },
+  "ph_circuit_board": {
+    "name": "Experimentálna základná doska",
+    "description": "Doska plošných spojov s neobvyklými komponentmi a stopami ručných úprav. Vyzerá to, že prišiel skôr z testovacej stolice než z výrobnej linky.",
+    "shortName": "Základná doska"
+  },
+  "ph_camera_01": {
+    "name": "Fotoaparát korešpondenta",
+    "description": "Kamera, ktorá zrejme niekoho sledovala počas posledných dní pred blokádou. Jeho remienok je opotrebovaný, ale šošovka je neporušená. Pre zberateľa sú niektoré obrázky cennejšie ako peniaze.",
+    "shortName": "Fotoaparát"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "Vysielačka Operácie Zero",
+    "description": "Robustný transceiver s poškriabanými voličmi a stopami po odstránenom identifikačnom štítku. Medzi obchodníkmi s vojenským šrotom koluje názov Operation Zero. Žiadne dve správy o jej histórii sa nezhodujú.",
+    "shortName": "Vysielačka Zero"
+  },
+  "ph_vintage_video_camera": {
+    "name": "Prieskumná kamera",
+    "description": "Stará videokamera s opotrebovaním pri preprave. Mohlo to zaznamenať továreň, únikovú cestu alebo len dovolenku. Bez záberov zostáva len dohadovanie.",
+    "shortName": "Videokamera"
+  },
+  "ph_retro_multimeter": {
+    "name": "Laboratórny multimeter",
+    "description": "Multimeter z inej doby s vyblednutou stupnicou a opotrebovanými sondami. Jeho dielňa sa síce zatvorila, no stále niekto pozná zachovalý kúsok.",
+    "shortName": "Multimeter"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "Digitálne hodinky operátora",
+    "description": "Nenápadné digitálne hodinky poznačené rokmi používania. Pre tých, ktorí sú uväznení v Tarkove, malo počítanie minút iný význam.",
+    "shortName": "Digitálne hodinky"
+  },
+  "ph_gamepad": {
+    "name": "Herný ovládač z úkrytu",
+    "description": "Herný ovládač so stočeným káblom a opotrebovanými tlačidlami. Niekto raz strávil tichý večer držaním. To je teraz ťažké predstaviť si.",
+    "shortName": "Ovládač"
+  },
+  "ph_small_plastic_torch": {
+    "name": "Prieskumnícka baterka",
+    "description": "Jednoduchá baterka s poškriabaným puzdrom, ktorá vyzerá, akoby prešla mnohými batohmi. Zberateľská pamiatka chodieb, kde nikto nechcel zostať v tme.",
+    "shortName": "Svietidlo"
+  },
+  "ph_vintage_binocular": {
+    "name": "Pozorovateľský ďalekohľad",
+    "description": "Starý ďalekohľad s opotrebovaným povlakom a známkami menších opráv. Kto ich nosil, asi uprednostnil sledovanie z diaľky. V Tarkove pochopiteľný zvyk.",
+    "shortName": "Starý ďalekohľad"
+  },
+  "ph_old_gas_mask": {
+    "name": "Historická plynová maska",
+    "description": "Plynová maska starého vzoru so zostarnutou gumou a dielmi neistého pôvodu. Má historickú hodnotu. Zveriť jej ochranu svojho dýchania by bola iná vec.",
+    "shortName": "Plynová maska"
+  },
+  "ph_seadogs_compass": {
+    "name": "Navigátorov kompas",
+    "description": "Kompas v starom puzdre s manipulačnými značkami na kove. Vedieť, kde leží sever, vám v uzavretom meste nie vždy pomôže nájsť cestu von.",
+    "shortName": "Kompas"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "Plukovníkove vreckové hodinky",
+    "description": "Staré vreckové hodinky s malými škrabancami na puzdre a zachovalou retiazkou. Nikto nevie, kto ich vlastnil, ale obchodníci ich začali nazývať plukovníkovými hodinkami.",
+    "shortName": "Vreckové hodinky"
+  },
+  "ph_vintage_lighter": {
+    "name": "Veteránsky zapaľovač",
+    "description": "Kovový zapaľovač s opotrebovanými rohmi. Než sa dostal na toto miesto, prešiel mnohými vreckami. Niektorí kupujúci zaplatia za tieto známky viac ako za nový.",
+    "shortName": "Zapaľovač"
+  },
+  "ph_stick_grenade": {
+    "name": "Neaktívny historický granát",
+    "description": "Paličkový granát zachovaný ako historický kus bez bojovej funkcie. Jeho tvar priťahuje pozornosť, ale zberateľom záleží na dobe, z ktorej pochádza.",
+    "shortName": "Nefunkčný granát"
+  },
+  "ph_fish_knife": {
+    "name": "Rybársky zberateľský nôž",
+    "description": "Úzky nôž s jednoduchou rukoväťou, uchovávaný ako zberateľský predmet. Zrejme poznal viac člnov a stolov na čistenie rýb než bojísk.",
+    "shortName": "Rybársky nôž"
+  },
+  "ph_binoculars": {
+    "name": "Poľný ďalekohľad",
+    "description": "Poľný ďalekohľad s opotrebovaným remienkom a nenápadným vzhľadom. Možno sledovali kontrolný bod alebo cestu medzi stromami. Kto si ich prezrel, nezanechal žiadne poznámky.",
+    "shortName": "Ďalekohľad"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "Zväčšovacie sklo vyšetrovateľa",
+    "description": "Lupa s hladkým rámom označená používaním. Druh objektu, ktorý patril na stôl plný dokumentov. V Tarkove malé detaily často skrývajú veľké príbehy.",
+    "shortName": "Lupa"
+  },
+  "ph_brass_blowtorch": {
+    "name": "Starožitná mosadzná letovacia lampa",
+    "description": "Mosadzný horák so starými škvrnami a tmavým kovom. Má vzhľad dielne, ktorá veci opravovala namiesto toho, aby ich vyhodila.",
+    "shortName": "Letovacia lampa"
+  },
+  "ph_industrial_microscope": {
+    "name": "Experimentálny mikroskop",
+    "description": "Robustný mikroskop s nastaviteľnými časťami a známkami starostlivého používania. Môže pochádzať z laboratória alebo priemyselnej kontrolnej stanice. Jeho pôvodná budova už nemusí existovať.",
+    "shortName": "Mikroskop"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "Vesmírny navigačný prístroj",
+    "description": "Navigačný prístroj s nezvyčajným číselníkom a opotrebovaným lakom. Jeho spojenie s vesmírnymi programami podporuje fámy. Dokazovanie, odkiaľ pochádza, je už iný príbeh.",
+    "shortName": "Kozmický prístroj"
+  },
+  "ph_binder_notebook": {
+    "name": "Výskumníkov zápisník",
+    "description": "Opotrebovaný zošit s voľnými stranami a manipulačnými značkami. Nie všetko, čo výskumník napísal, skončilo v počítači. Niekedy sa posledná platňa zmestí do ruksaku.",
+    "shortName": "Zápisník"
+  },
+  "ph_round_spectacles": {
+    "name": "Profesorove okuliare",
+    "description": "Okrúhle okuliare s tenkým rámom a jemným opotrebovaním. Meno Profesor pochádza od obchodníkov, nie z identifikačnej karty. Osoba za šošovkami zostáva neznáma.",
+    "shortName": "Okuliare"
+  },
+  "ph_vintage_stapler": {
+    "name": "Zošívačka Archívu Zero",
+    "description": "Stará zošívačka s jasným náterom a nádielka inej éry. Vydržalo to stoly, ktoré pomáhal organizovať. Papiere ľahko zmiznú; kov má tendenciu zostať.",
+    "shortName": "Zošívačka"
+  },
+  "ph_modified_thermos": {
+    "name": "Expedičná termoska",
+    "description": "Odrená termoska ako stvorená na dlhé cesty. Zdá sa, že svojmu bývalému majiteľovi záležalo viac, ako naznačuje jeho vzhľad.",
+    "shortName": "Termoska"
+  },
+  "ph_ratchet_wrench": {
+    "name": "Presný račňový kľúč",
+    "description": "Ráčnový kľúč s opotrebovaním kontaktných plôch. Možno patril niekomu, kto dokázal rozobrať stroj bez toho, aby za sebou nechal náhradné kusy.",
+    "shortName": "Račňový kľúč"
+  },
+  "ph_pliers": {
+    "name": "Kliešte pre technikov",
+    "description": "Jednoduché kliešte s otlakmi na čeľustiach a opotrebovanými rukoväťami. Medzi tým všetkým šrotom to stále vyzerá ako niečo, na čom niekto trval na tom, aby si to ponechal.",
+    "shortName": "Kliešte"
+  },
+  "ph_adjustable_wrench": {
+    "name": "Historický nastaviteľný kľúč",
+    "description": "Starý nastaviteľný kľúč so zatmaveným mechanizmom a kov leštený používaním. Nič vymyslené, len kúsok, ktorý sa roky presúval z lavičky na lavičku.",
+    "shortName": "Nastaviteľný kľúč"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "Kladivo Dielne Zero",
+    "description": "Dielenské kladivo s vyznačenou rukoväťou a ošúchanou hlavou. Zdá sa, že názov Workshop Zero sa objavil po blokáde. Kto tam pracoval, nenechal na dverách žiadny nápis.",
+    "shortName": "Kladivo"
+  }
+}

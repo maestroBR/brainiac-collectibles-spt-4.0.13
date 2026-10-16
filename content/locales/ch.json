@@ -1,0 +1,152 @@
+{
+  "ph_portable_cassette_player": {
+    "name": "走私者的磁带播放器",
+    "shortName": "磁带播放器",
+    "description": "一台饱经岁月的便携磁带播放器。里面的磁带没有标签，只有手写的日期。它让人想起穿越塔科夫还不必如此安静的年代。"
+  },
+  "ph_classic_laptop": {
+    "name": "档案员的笔记本电脑",
+    "shortName": "笔记本电脑",
+    "description": "一台旧笔记本电脑，外壳贴着资产标签，按键已有磨损。它或许曾保存塔科夫某家公司的记录。如今，它的价值在于留存至今。"
+  },
+  "ph_circuit_board": {
+    "name": "实验型主板",
+    "shortName": "主板",
+    "description": "一块装有特殊元件、留有手工改装痕迹的电路板。它看起来来自测试台，而非生产线。"
+  },
+  "ph_camera_01": {
+    "name": "记者的相机",
+    "shortName": "相机",
+    "description": "这台相机似乎陪伴某人度过了封锁前的最后几天。肩带已经磨损，镜头却完好无损。对收藏者而言，有些照片比金钱更珍贵。"
+  },
+  "ph_vintage_radio_transceiver": {
+    "name": "零号行动收发机",
+    "shortName": "收发机",
+    "description": "一台坚固的收发机，旋钮有划痕，铭牌似乎被拆掉了。军用废品商口中常提起“零号行动”，但他们的说法各不相同。"
+  },
+  "ph_vintage_video_camera": {
+    "name": "侦察摄像机",
+    "shortName": "摄像机",
+    "description": "一台外壳带着搬运痕迹的旧摄像机。它可能拍过工厂、逃生路线，也可能只是记录假期。没有录像，一切只能猜测。"
+  },
+  "ph_retro_multimeter": {
+    "name": "实验室万用表",
+    "shortName": "万用表",
+    "description": "一台来自旧时代的万用表，刻度已褪色，探针也磨损了。原来的维修间或许早已关闭，但仍有人懂得珍惜保养良好的旧物。"
+  },
+  "ph_digital_wrist_watch": {
+    "name": "行动员的电子表",
+    "shortName": "电子表",
+    "description": "一块不起眼的电子表，留下了多年使用的痕迹。对困在塔科夫的人来说，数着时间流逝早已有了不同的意义。"
+  },
+  "ph_gamepad": {
+    "name": "藏身处的游戏手柄",
+    "shortName": "游戏手柄",
+    "description": "一个缠着线缆、按键磨损的游戏手柄。曾有人拿着它度过宁静的夜晚。如今，最难想象的正是那份宁静。"
+  },
+  "ph_small_plastic_torch": {
+    "name": "探险者的手电筒",
+    "shortName": "手电筒",
+    "description": "一支外壳有划痕的普通手电筒，看起来曾辗转于许多背包。作为藏品，它让人想起那些谁也不愿独自陷入黑暗的走廊。"
+  },
+  "ph_vintage_binocular": {
+    "name": "观察员的双筒望远镜",
+    "shortName": "观察员望远镜",
+    "description": "一副涂层磨损、带着小修补痕迹的旧望远镜。携带它的人大概更喜欢远远观察。在塔科夫，这种习惯不难理解。"
+  },
+  "ph_old_gas_mask": {
+    "name": "历史防毒面具",
+    "shortName": "防毒面具",
+    "description": "一具老式防毒面具，橡胶已经老化，部件来源也不明确。它的价值在于历史。至于能否放心靠它呼吸，那是另一回事。"
+  },
+  "ph_seadogs_compass": {
+    "name": "领航员的指南针",
+    "shortName": "指南针",
+    "description": "一枚装在旧盒中的指南针，金属表面留着触摸痕迹。在被封锁的城市里，知道北方在哪，并不总能找到出路。"
+  },
+  "ph_vintage_pocket_watch": {
+    "name": "上校的怀表",
+    "shortName": "怀表",
+    "description": "一枚旧怀表，表壳有细小划痕，表链却保存完好。没人知道它属于谁，但商人们已经习惯称它为“上校的怀表”。"
+  },
+  "ph_vintage_lighter": {
+    "name": "老兵的打火机",
+    "shortName": "打火机",
+    "description": "一个边角磨损的金属打火机。来到这里之前，它曾装在许多人的口袋里。有人愿意为这些痕迹付出比新品更高的价钱。"
+  },
+  "ph_stick_grenade": {
+    "name": "历史惰性手榴弹",
+    "shortName": "惰性手榴弹",
+    "description": "一枚作为历史藏品保存的柄式手榴弹，不具备战斗功能。它的外形引人注目，但收藏者在意的是它来自哪个年代。"
+  },
+  "ph_fish_knife": {
+    "name": "渔夫的收藏刀具",
+    "shortName": "收藏刀具",
+    "description": "一把手柄朴素的细长刀具，被作为藏品保存。它似乎见过更多船只与处理鱼的案台，而非战场。"
+  },
+  "ph_binoculars": {
+    "name": "野战双筒望远镜",
+    "shortName": "野战望远镜",
+    "description": "一副肩带磨损、外形低调的野战望远镜。它可能观察过检查站，也可能望向林间小路。使用它的人没有留下笔记。"
+  },
+  "ph_magnifying_glass_01": {
+    "name": "调查员的放大镜",
+    "shortName": "放大镜",
+    "description": "一把边框朴素、带着使用痕迹的放大镜。它曾适合摆在堆满文件的桌上。在塔科夫，小细节往往藏着大故事。"
+  },
+  "ph_brass_blowtorch": {
+    "name": "古董黄铜喷灯",
+    "shortName": "黄铜喷灯",
+    "description": "一只带着旧污渍、金属已发暗的黄铜喷灯。它让人想起一家宁愿修好东西，也不轻易丢弃的工坊。"
+  },
+  "ph_industrial_microscope": {
+    "name": "实验型显微镜",
+    "shortName": "显微镜",
+    "description": "一台坚固的显微镜，带有可调部件，也留下了细心使用的痕迹。它可能来自实验室或工业检验站。原来的建筑或许已不复存在。"
+  },
+  "ph_vintage_spacecraft_instrument": {
+    "name": "航天导航仪器",
+    "shortName": "航天导航仪",
+    "description": "一件带着特殊表盘、油漆磨损的导航仪器。它与航天计划的传闻引人遐想，但要证明来历却是另一回事。"
+  },
+  "ph_binder_notebook": {
+    "name": "研究员的笔记本",
+    "shortName": "笔记本",
+    "description": "一本封面磨损、夹着散页的笔记本，带着翻阅痕迹。研究员的记录并不全在电脑里。有时，最后的资料只需一个背包就能装下。"
+  },
+  "ph_round_spectacles": {
+    "name": "教授的眼镜",
+    "shortName": "眼镜",
+    "description": "一副细框圆眼镜，带着轻微磨损。“教授”这个名字来自商人，而非身份证明。镜片后曾是谁，仍无人知晓。"
+  },
+  "ph_vintage_stapler": {
+    "name": "零号档案室订书机",
+    "shortName": "订书机",
+    "description": "一只涂着醒目颜色、带着旧时代分量的订书机。它比那些曾被它整理过的办公桌留存得更久。纸张容易消失，金属往往留下。"
+  },
+  "ph_modified_thermos": {
+    "name": "探险保温瓶",
+    "shortName": "保温瓶",
+    "description": "一个瓶身磨损、适合长途旅行的保温瓶。它对前主人的意义，似乎远超过外观所能透露的。"
+  },
+  "ph_ratchet_wrench": {
+    "name": "精密棘轮扳手",
+    "shortName": "棘轮扳手",
+    "description": "一把接触面已经磨损的棘轮扳手。它或许属于一个懂得拆装机械、从不留下“多余零件”的人。"
+  },
+  "ph_pliers": {
+    "name": "技术员的钳子",
+    "shortName": "钳子",
+    "description": "一把普通钳子，钳口有夹压痕迹，手柄也已磨损。混在废品中，它仍像是一件有人执意保留的东西。"
+  },
+  "ph_adjustable_wrench": {
+    "name": "历史活动扳手",
+    "shortName": "活动扳手",
+    "description": "一把旧活动扳手，调节机构已经发暗，金属被使用磨得光滑。没有花哨之处，只是一件多年辗转于工作台之间的旧物。"
+  },
+  "ph_cross_pein_hammer": {
+    "name": "零号工坊的锤子",
+    "shortName": "锤子",
+    "description": "一把工坊锤子，手柄有痕迹，锤头也饱经劳作。“零号工坊”这个名字似乎出现在封锁之后。曾在那里工作的人没有在门上留下招牌。"
+  }
+}

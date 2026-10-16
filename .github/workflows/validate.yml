@@ -1,0 +1,16 @@
+name: Validate experimental 4.0.13 build
+on: [push, pull_request]
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: dotnet build src/Collectibles/Collectibles.csproj -c Release
+      - run: dotnet run --project tests/Localization.csproj -c Release
+      - run: python3 tools/validate.py
