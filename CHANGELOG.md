@@ -1,8 +1,11 @@
 # Changelog
 
-## 1.4.0-alpha.1 — 2026-10-16
+## 1.4.0 — Experimental — 2026-10-16
 
-First experimental SPT 4.0.13 backport, based on Brainiac Collectibles 1.4.0.
+Experimental SPT 4.0.13 backport, based on Brainiac Collectibles 1.4.0.
+
+- Correct the installation root to `SPT/user/mods` for SPT 4.0.x.
+- Match the Forge published version exactly: DLL metadata now declares `1.4.0`. Experimental status is retained in the release label instead of the version suffix.
 
 - Target .NET 9 and pin the SPT Core/Common/DI packages to exactly 4.0.13.
 - Use the 4.0 metadata record, bundle-mod flag and exact SPT version requirement.

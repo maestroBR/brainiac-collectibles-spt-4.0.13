@@ -6,7 +6,7 @@
 | Target server framework | .NET 9 |
 | Target API references | Exact official 4.0.13 NuGet packages |
 | Release build | Passed |
-| Isolated localization and metadata/API checks | 1,060 passed under .NET 9 |
+| Isolated localization and metadata/API checks | 1,061 passed under .NET 9 |
 | Catalogue, bundles and locales | 30 items/bundles; 17 locales validated |
 | Full target server startup | Not tested |
 | Item prefab rendering in the 4.0.13 client | Not tested |

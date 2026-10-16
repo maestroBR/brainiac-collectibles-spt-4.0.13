@@ -8,16 +8,16 @@ Includes the same **30 collectibles**, models, item IDs and **17 languages** as 
 
 ## Status
 
-Version: **1.4.0-alpha.1**, built for **SPT 4.0.13 / .NET 9** using exact 4.0.13 NuGet dependencies. The port adapts server metadata, load order and item-registration APIs; it is more than a version-number change.
+Version: **1.4.0**, built for **SPT 4.0.13 / .NET 9** using exact 4.0.13 NuGet dependencies. The port adapts server metadata, load order and item-registration APIs; it is more than a version-number change.
 
-Release build and 1,060 isolated checks passed against the target libraries under .NET 9. A complete SPT 4.0.13 server startup, in-game model rendering, loot discovery and Fika gameplay have **not** been verified. The bundles are reused unchanged and still need testing with the 4.0.13 client.
+Release build and 1,092 isolated checks passed against the target libraries under .NET 9. A complete SPT 4.0.13 server startup, in-game model rendering, loot discovery and Fika gameplay have **not** been verified. The bundles are reused unchanged and still need testing with the 4.0.13 client.
 
 ## Testing the build
 
 1. Back up your SPT 4.0.13 profiles and existing mod folder. Prefer a separate test profile.
 2. Close the game and server.
-3. Extract `Brainiac-Collectibles-1.4.0-alpha.1-SPT-4.0.13-Experimental.zip` into your **SPT 4.0.13** game root.
-4. The mod belongs in `SPT_Runtime/user/mods/Maestro-BrainiacCollectibles/`.
+3. Extract `Brainiac-Collectibles-1.4.0-SPT-4.0.13-Experimental.zip` into your **SPT 4.0.13** game root.
+4. The mod belongs in `SPT/user/mods/Maestro-BrainiacCollectibles/`.
 5. Start your server and check its logs before launching the game.
 
 Do not install this over the stable 4.1.6 build or load both variants together. The mod GUID and item IDs are deliberately unchanged. This does not make profiles interchangeable between SPT versions. Close both processes and restore your backup if testing fails.
@@ -33,3 +33,5 @@ Include the exact mod/SPT version, reproduction steps and relevant server/client
 Project Brainiac. Original item models and textures: **Poly Haven, CC0**, with source/author credits in [CREDITS.md](CREDITS.md). Code: [MIT](LICENSE).
 
 [Port status and adaptation matrix](docs/MIGRATION_STATUS.md) · [Build instructions](docs/DEVELOPMENT.md)
+
+[SPT 4.0.13 modding guide](docs/SPT-4.0.13-MODDING.md)

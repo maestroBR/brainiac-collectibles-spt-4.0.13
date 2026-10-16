@@ -9,12 +9,16 @@ static class Checks {
  int passed=0;
  void Check(bool condition,string name){if(!condition)throw new Exception(name);passed++;}
  var metadata=new Maestro.BrainiacCollectibles.Metadata();
+ Check(metadata.Version.ToString()=="1.4.0","Published Forge version must match DLL metadata");
  Check(metadata.SptVersion.IsSatisfied(new SemanticVersioning.Version("4.0.13")),"4.0.13 must be allowed");
  Check(!metadata.SptVersion.IsSatisfied(new SemanticVersioning.Version("4.1.6")),"Stable 4.1.6 must be rejected");
  Check(metadata.IsBundleMod==true,"4.0 bundle loader flag missing");
  Check(typeof(SPTarkov.Server.Core.DI.IOnLoad).IsAssignableFrom(typeof(Maestro.BrainiacCollectibles.Mod)),"4.0 load hook missing");
  Check(typeof(Maestro.BrainiacCollectibles.Mod).GetMethod("OnLoad")?.ReturnType==typeof(Task),"4.0 OnLoad signature mismatch");
  Check(typeof(Maestro.BrainiacCollectibles.Mod).Assembly.GetReferencedAssemblies().Single(a=>a.Name=="SPTarkov.Server.Core").Version==new Version(4,0,13,0),"Wrong server API reference");
+ var manifest=JsonSerializer.Deserialize<SPTarkov.Server.Core.Loaders.BundleManifest>(File.ReadAllText("content/bundles.json"))!;
+ Check(manifest.Manifest?.Count==30,"4.0 native bundle manifest must contain 30 entries");
+ foreach(var bundle in manifest.Manifest!)Check(File.Exists(Path.Combine("content","bundles",bundle.Key)),"4.0 bundle loader path missing: "+bundle.Key);
  var entries=JsonSerializer.Deserialize<List<Collectible>>(File.ReadAllText("content/catalogue.json"),new JsonSerializerOptions{PropertyNameCaseInsensitive=true})!;
  var root=Path.Combine(Path.GetTempPath(),"brainiac-locales-"+Guid.NewGuid().ToString("N"));Directory.CreateDirectory(Path.Combine(root,"locales"));
  try{

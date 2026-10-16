@@ -29,7 +29,7 @@ Do not import changed prices, IDs, spawn weights or mechanics from another versi
 ## Evidence and limits
 
 - Release build passed without warnings.
-- 1,060 checks passed against the pinned assemblies in .NET 9: all locales and required fields, short-name limits, missing/incomplete files, exact version range, metadata flag and load-hook shape.
+- 1,092 checks passed against the pinned assemblies in .NET 9: all locales and required fields, short-name limits, missing/incomplete files, exact version range, metadata flag and load-hook shape.
 - Source asset/catalogue parity is checked separately against the pinned reference. Existing bundles are not modified.
 - No complete 4.0.13 installation was available for a server startup or client playthrough. No models, loot, extraction, inventory persistence or Fika behavior have been certified on the target game.
 

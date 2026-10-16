@@ -27,15 +27,20 @@ public sealed class Mod(CustomItemService itemService, DatabaseService database,
         if(entries.Any(x=>!File.Exists(Path.Combine(folder,"bundles",x.Bundle))))
         { logger.Warning("[Brainiac Collectibles] Assets incompletos; nenhum item foi cadastrado. Concluir os bundles antes da ativação."); return Task.CompletedTask; }
         if(entries.Any(x=>templates.Items.ContainsKey(new MongoId(x.Id)))) throw new InvalidDataException("Colisão de IDs de colecionáveis Brainiac; revisar instalação.");
+        var baseItemId = new MongoId("59faf7ca86f7740dbe19f6c2");
+        if (!templates.Items.ContainsKey(baseItemId))
+            throw new InvalidDataException("SPT 4.0.13 base item template is missing; item registration aborted.");
         foreach(var entry in entries)
         {
-            itemService.CreateItemFromClone(new NewItemFromCloneDetails {
+            var created = itemService.CreateItemFromClone(new NewItemFromCloneDetails {
                 NewId=entry.Id,ItemTplToClone=new MongoId("59faf7ca86f7740dbe19f6c2"),
                 ParentId="57864a3d24597754843f8721",
                 HandbookParentId="5b47574386f77428ca22b2f1",HandbookPriceRoubles=entry.Price,FleaPriceRoubles=entry.Price,
                 Locales=localizedItems[entry.Slug],
                 OverrideProperties=new TemplateItemProperties { Prefab=new(){Path=entry.Bundle,Rcid=""},Weight=entry.Weight,Width=entry.Width,Height=entry.Height,CanSellOnRagfair=false,ExaminedByDefault=false,BackgroundColor=entry.Category=="exotic"?"violet":entry.Category=="military"?"yellow":"red",QuestItem=false,StackMaxSize=1 }
             });
+            if (created.Success != true)
+                throw new InvalidDataException("Collectible registration failed: " + entry.Slug);
             // The 4.0 API has no NewItemName option; set the registered template's internal name.
             templates.Items[new MongoId(entry.Id)].Name = "brainiac_collectible_" + entry.Slug;
         }

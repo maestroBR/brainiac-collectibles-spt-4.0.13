@@ -5,7 +5,7 @@ public sealed record Metadata:AbstractModMetadata {
  public override string Name{get;init;}="Brainiac Collectibles — SPT 4.0.13 Experimental";
  public override string Author{get;init;}="Maestro";
  public override List<string>? Contributors{get;init;}=null;
- public override SemanticVersioning.Version Version{get;init;}=new("1.4.0-alpha.1");
+ public override SemanticVersioning.Version Version{get;init;}=new("1.4.0");
  public override SemanticVersioning.Range SptVersion{get;init;}=new("=4.0.13");
  public override bool? IsBundleMod{get;init;}=true;
  public override List<string>? Incompatibilities{get;init;}=null;
